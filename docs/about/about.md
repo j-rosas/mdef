@@ -8,4 +8,3 @@ Joaquín Rosas Sotomayor (1991). Designer graduated from Pontificia Universidad 
 material manufacturing, digital fabrication,
 sustainable methods and circular economy. Currently at MDEF 2021/2022 at IAAC.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
