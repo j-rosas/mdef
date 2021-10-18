@@ -2,6 +2,8 @@
 
 ![](../images/perezoso.jpg)
 
+![](../images/prueba_1.jpg)
+
 D**1st term:**
 
 Design Bootcamp
