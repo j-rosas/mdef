@@ -2,8 +2,6 @@
 
 ![](../images/perezoso.jpg)
 
-![](/images/prueba_1.jpg)
-
 **1st term:**
 
 Design Bootcamp
@@ -120,10 +118,10 @@ Know, want I want to learn. make the switch, form passive learning to take contr
 **Knowledge**: Theory, ethics involved, be concient of pros and cons.
 **Attitude:**Open, think of applications to the real world.
 
-**Week**: 11
-**Asignature**: Next Billion Seconds
-**Skills**:Mix with different disciplines, learn tools
-**Knowledge**: how to apply this info to projects, authors, extrapolate info.
+**Week: 11
+**Asignature: Next Billion Seconds
+**Skills:Mix with different disciplines, learn tools
+**Knowledge: how to apply this info to projects, authors, extrapolate info.
 **Attitude:**Explore, discus, colaborative, debate approach, reflective, ideate.
 
 
