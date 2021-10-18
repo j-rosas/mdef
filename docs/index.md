@@ -2,9 +2,9 @@
 
 ![](../images/perezoso.jpg)
 
-![](../images/prueba_1.jpg)
+![](/images/prueba_1.jpg)
 
-D**1st term:**
+**1st term:**
 
 Design Bootcamp
 
