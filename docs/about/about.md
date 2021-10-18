@@ -1,7 +1,9 @@
-# About
+# JOAQUIN ROSAS S.
 
 ![](../images/perezoso.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Joaquín Rosas Sotomayor (1991). Designer graduated from Pontificia Universidad Católica de Chile, with teaching experience in University of Chile and Universidad Catolica. Specialized in development of high social impact projects through the use of new technologies,
+material manufacturing, digital fabrication,
+sustainable methods and circular economy. Currently at MDEF 2021/2022 at IAAC.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
