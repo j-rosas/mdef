@@ -16,6 +16,8 @@ Second assignment.
     
 2. **Screenshot of your Multiscalar diagram -**
     1. Screenshot
+
+    
     2. Reflect on your experience looking for weak signals in a situated approach though scales.
 
 The Atlas of weak signals is a very interesting tool that helps to connect subjects and extreme postures, aslo appearing a lot of new subjects that surprised me because I had never heard about them, so is interesting as well to see the diversity of areas that we can investigate and work. Also i think that is avery efficient tool to use as a community that we are as a master course. In a moment i saw like 20 people thinking and acctually working in one subject, bringing the collective thinking to the learning experience, and the results were amazing, looking for things that never will ocurred to me because im a singular organism with boundaries.I believe that the Atlas helps also to create more weak signals and opportunnities with different organizations and communities.
@@ -27,25 +29,25 @@ The Atlas of weak signals is a very interesting tool that helps to connect subje
 4. **Next steps - Based on the work this week please tell me:**
     1. Someone you would like to contact
 
-For this investigation I will contact a lot of people from different networks, and places.
+For this investigation I will contact a lot of people from different networks, and places:
 
-Chile:
+**Chile:**
 Bruno Grossi-Biologist Phd in Biomimetics
 Biolab UC- Work and reaserch in biomaterials
-Carolina Pacheco- Works in Cal.careo, growing things in calcium carbonate.
+Carolina Pacheco- Works in Cal.careo, growing things and structures in calcium carbonate.
 Nicolas Viollier- MDEF Alumni, works with mycelium and regenerative design.
 
 
-Spain
+**Spain**
 
-Iaac MDEF alumni that had worked with biofabricaction projects
+-Iaac MDEF alumni that had worked with biofabricaction projects
 The poble now urban place that makes workshops and urban gardens.
 
 
 
-    2. An experiment you’d like to make
+ 2. An experiment you’d like to make**
 
-Some inicial experiments that I want to make:
+**Some inicial experiments that I want to make:**
 
 Grow something functional, simple and usefull things.(a cristal salted ring.)
 
@@ -57,6 +59,6 @@ Use nature energy to do something else.(carnivor plants as an imput.)
 
     3. A new skill you’d like to add to your personal development plan
 
-    A skill that i want to improve more is to be a maker, a lot more hands on that today, from overthinking and having a lot of prejudices, to doing and fabricating a lot more.
+ A skill that i want to improve more is to be a maker, a lot more hands on that today, from overthinking and having a lot of prejudices, to doing and fabricating a lot more.
 
 ![](../images/MT01/scorpio_blow.jpg)
