@@ -48,7 +48,9 @@ The poble now urban place that makes workshops and urban gardens.
 Some inicial experiments that I want to make:
 
 Grow something functional, simple and usefull things.(a cristal salted ring.)
+
 Replace a functional object using only natural resources.(see under water with your own hands)
+
 Use nature energy to do something else.(carnivor plants as an imput.)
 
 
