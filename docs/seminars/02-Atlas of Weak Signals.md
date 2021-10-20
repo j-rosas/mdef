@@ -30,11 +30,11 @@ The Atlas of weak signals is a very interesting tool that helps to connect subje
 For this investigation I will contact a lot of people from different networks, and places.
 
 Chile:
-Bruno Grossi
-Biolab UC
-Carolina Pacheco
-Nicolas Viollier
-LaBVA
+Bruno Grossi-Biologist Phd in Biomimetics
+Biolab UC- Work and reaserch in biomaterials
+Carolina Pacheco- Works in Cal.careo, growing things in calcium carbonate.
+Nicolas Viollier- MDEF Alumni, works with mycelium and regenerative design.
+
 
 Spain
 
@@ -44,6 +44,17 @@ The poble now urban place that makes workshops and urban gardens.
 
 
     2. An experiment you’d like to make
+
+Some inicial experiments that I want to make:
+
+Grow something functional, simple and usefull things.(a cristal salted ring.)
+Replace a functional object using only natural resources.(see under water with your own hands)
+Use nature energy to do something else.(carnivor plants as an imput.)
+
+
+
     3. A new skill you’d like to add to your personal development plan
+
+    A skill that i want to improve more is to be a maker, a lot more hands on that today, from overthinking and having a lot of prejudices, to doing and fabricating a lot more.
 
 ![](../images/MT01/scorpio_blow.jpg)
