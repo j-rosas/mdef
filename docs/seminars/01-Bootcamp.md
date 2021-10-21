@@ -17,6 +17,14 @@ The project is open source, and all objects are 3d printed, and assembled with c
 
 In this process I had discovered that my fight will be the “bridge” or connection beetween comunities, people, minorities, and joinig them with multidisciplinary teams, professionals, and creative people that are more used to develop and create new things. Connecting the unconnected points in the most creative, locally, efficient and resourcefull way.
 
+
+Poster:
+
+![](../images/poster1.jpg)
+![](../images/poster2.jpg)
+![](../images/poster3.jpg)
+
+
 **Some of my actual questions are:**
 
 Research:
@@ -46,16 +54,25 @@ https://joaquinrosas.com/MAKE-CARE
 
 Know, want I want to learn. make the switch, form passive learning to take control where i want to go, and where I want to learn.
 
+
+
 1) Look at your poster as your design vision of how our (social) world could be in the (near) future
 
 2) Describe your professional identity in terms of skills, knowledge and attitude.
 
+![](../images/personald.png)
+
 3) Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge and attitude
+
+![](../images/desiredpi.png)
 
 4) Based on your vision and what attracts you from the “meetings” create your desired professional identity
 
 
+
 5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
+
+![](../images/personalplan.jpg)
 
 6) Justify and describe your "draft" personal development plan for the master program.
 
@@ -64,6 +81,7 @@ Know, want I want to learn. make the switch, form passive learning to take contr
 **Skills**:Use of workshop tools, get use to iaac space, Learn git, and web programming
 **Knowledge**: design theory, new concepts of design, new learning process, working adaptation.
 **Attitude:**Open minded, ready for adapt/change, effort on focus, team work, ask a lot, open with classmates, effective in time.
+
 
 **Week**:2
 **Asignature**:Atlas of weak signals
