@@ -7,6 +7,9 @@ hide:
 
 **DESIGN SPACE**
 
+![](../images/ws1.png)
+
+
 Second assignment.
 
 1. **Screenshots of your individual design space**
@@ -14,8 +17,39 @@ Second assignment.
 
     How to grow almost anything thrills me to encourage the future of fabrication in a very interesting way. Looking how nature build its all structures and different kind of things, It is a bit difficult to relate to my fight that looks more with a social aproach, but I think one of the oportunities is to find the link betweeen this areas.
     
-2. **Screenshot of your Multiscalar diagram -**
-    1. Screenshot
+
+**STATE OF THE ART**
+
+![](../images/ws2.png)
+
+**THINGS THAT I HAD GROWN**
+
+![](../images/ws3.png)
+
+
+**A BETTER FUTURE**
+
+![](../images/ws5.png)
+
+**MY ACTUAL INTEREST**
+
+![](../images/ws6.png)
+
+Also Im very interested in this specific subjects:
+
+-Biofabrication
+-Metamaterials
+-Self assembly objects
+-Bio sensors
+-Low energy objects.
+-Ai/ Machine learning
+
+2. **Multi scalar diagram**
+   
+   ![](../images/md.png)
+
+My multiscalar diagram, is mainly my questions that appeared by thinking the opportunity of working with nature in very different ways, After, I arranged it into different scales to be new starting points from the scale that the questions are.
+
 
     
     2. Reflect on your experience looking for weak signals in a situated approach though scales.
@@ -44,7 +78,6 @@ Nicolas Viollier- MDEF Alumni, works with mycelium and regenerative design.
 The poble now urban place that makes workshops and urban gardens.
 
 
-
  2. An experiment you’d like to make**
 
 **Some inicial experiments that I want to make:**
@@ -61,4 +94,3 @@ Use nature energy to do something else.(carnivor plants as an imput.)
 
  A skill that i want to improve more is to be a maker, a lot more hands on that today, from overthinking and having a lot of prejudices, to doing and fabricating a lot more.
 
-![](../images/MT01/scorpio_blow.jpg)
