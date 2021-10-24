@@ -29,18 +29,26 @@ Experiments:
 # Materials:
 
 -Salt
+
 -Water
+
 -Recipients
+
 -String
+
 -Earing
 
 
 # Steps:
 
 1)Disolve salt in warm water(80 °C aprox).
+
 2)Revolve till the salt doesnt disolve any more.
+
 3)Pour the mix in a transparent bowl
+
 4) Hang the earing in water
+
 5) Wait few days
 
 
