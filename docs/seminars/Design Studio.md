@@ -3,11 +3,13 @@ hide:
     - toc
 ---
 
-# DDESIGN STUDIO
+# DESIGN STUDIO
 
 ![](../images/designspace.png)
 
 1. Reflect on your own RtD toolbox based on “your new me” and create a “new workspace”. 
+
+
 
 
 
@@ -55,11 +57,6 @@ Experiments:
 
 
 
-
-
-
-
-
 # 2)Make an action that normally you will use an object to acomplish, with the minimum resources.
 
 
@@ -79,7 +76,7 @@ Tools:
 
 3) Slowly dive into the water
 
-4) Observe
+4) Observe below the water.
 
 
 # 3)Using natures energy to create something
@@ -104,7 +101,9 @@ Materials:
 4) wait till the leaf is close, the aluminum will touch and will turn on the led.
 
 
+# INITIAL WORSPACE
 
+![](../images/WS1.png)
 
 
 
