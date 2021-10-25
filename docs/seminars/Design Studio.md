@@ -103,7 +103,7 @@ Materials:
 
 # INITIAL WORSPACE
 
-![](../images/WS1.png)
+![](../images/WS.png)
 
 
 
