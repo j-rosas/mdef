@@ -101,7 +101,7 @@ Materials:
 4) wait till the leaf is close, the aluminum will touch and will turn on the led.
 
 
-# INITIAL WORSPACE
+# INITIAL WORSPACE/TOOLBOX
 
 ![](../images/WS.png)
 
