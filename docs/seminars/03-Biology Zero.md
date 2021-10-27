@@ -101,7 +101,21 @@ for 1 LT
 
 15 g Agar Agar
 
+**Task**
 
+Think in a problem as crazy as possible, related to genetic engeneering see how far we are in that future. and try to reflect how to solve it, and how to tackle the investigation.
+
+No format. 
+
+Environment:
+
+wich kind of bacteria:
+
+i will genetycally modify:
+
+Wich process will I make:
+
+Name of the Gene:
 
 
 
