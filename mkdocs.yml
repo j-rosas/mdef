@@ -29,7 +29,7 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: RobotoMono
     code: Cutive Mono
   icon:
     logo: material/memory
