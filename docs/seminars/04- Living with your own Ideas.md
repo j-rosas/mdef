@@ -39,13 +39,7 @@ One thing that i learned is how the materiality of objects, can lead to differen
 
 # THE FIRST DAY OF MY NEW LIFE / 1PP 
 
-# Concepts:
 ## Concepts:
-### Concepts:
-#### Concepts:
-##### Concepts:
-###### Concepts:
-
 
 -Auto ethnography
 -Radical thinking
