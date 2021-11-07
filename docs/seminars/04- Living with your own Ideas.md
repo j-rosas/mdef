@@ -37,9 +37,15 @@ Another observation that we made as a group was that at the same time, we aim to
 
 One thing that i learned is how the materiality of objects, can lead to different interpretations of reality and can make people to connect with very deep and abstract ideas, making this exersice a great vehicle for creativity and connection with our selfs, and our thoughts and emotions in the context that we are or in a context that we want to be.
 
-THE FIRST DAY OF MY NEW LIFE / 1PP
+# THE FIRST DAY OF MY NEW LIFE / 1PP 
 
-# Concepts: #
+# Concepts:
+## Concepts:
+### Concepts:
+#### Concepts:
+##### Concepts:
+###### Concepts:
+
 
 -Auto ethnography
 -Radical thinking
@@ -55,7 +61,7 @@ I started with the Question, Can be the Music a potential "energy" to materializ
 Recomendation from teachers: 
 Keep it close, do a lot of experiments, "see what happens", the restriction: Had to be music made by me, not others.
 
-## A guide to successfull Auto Ethnography ##
+## A guide to successfull Auto Ethnography 
 
 Define Study Boundaries:
 
