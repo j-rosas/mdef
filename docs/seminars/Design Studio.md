@@ -105,6 +105,17 @@ Materials:
 
 ![](../images/WS.png)
 
+New Toolbox
+
+![](../images/DS2.PNG)
+
+
+POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
+
+![](../images/OP1.PNG)
+
+![](../images/OP2.PNG)
+
 
 
 
