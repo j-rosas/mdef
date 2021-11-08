@@ -112,9 +112,9 @@ New Toolbox
 
 POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
 
-![](../images/OP1.PNG)
+![](../images/OP1.png)
 
-![](../images/OP2.PNG)
+![](../images/OP2.png)
 
 
 
