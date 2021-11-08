@@ -47,13 +47,15 @@ One thing that i learned is how the materiality of objects, can lead to differen
 -Extreme situations
 -Design Intervention
 
-
 https://www.youtube.com/watch?v=VDu9yRFaVko
 
 I started with the Question, Can be the Music a potential "energy" to materialize something?
 
 Recomendation from teachers: 
 Keep it close, do a lot of experiments, "see what happens", the restriction: Had to be music made by me, not others.
+
+![](../images/1PP.png)
+
 
 ## A guide to successfull Auto Ethnography 
 
