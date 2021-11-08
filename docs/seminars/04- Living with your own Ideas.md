@@ -57,31 +57,31 @@ Keep it close, do a lot of experiments, "see what happens", the restriction: Had
 
 ## A guide to successfull Auto Ethnography 
 
-Define Study Boundaries:
+# Define Study Boundaries:
 
 My limits were determined principaly by the question I made, It was the starting point, but open to changes, The main thing was the direction, that was to materialize something with/by music. Maybe some boundarie was the time (a day) and the place, because I determine that the place should be my work/music room, using thingsthat I allready had in that specific time and place.
 
-Authenticity:
+# Authenticity:
 
 At first, when I begun the experiment, It felt not that authentic, because I had seen a lot of this before, on social network, or youtube. The next step was way more authentic(musical shaving) because my brain allready was on a mood of doing something different, and different conection with things that normally wouldnt be connected on this subject, for example grabbing my facial hair and pur it on a music pentagram, to make "music notes", and that was very inspiring for grabing an instrument and start creating music.
 
-Plausibility
+# Plausibility
 
 It relates with my personal interests ( Music and fabrication) and how I made them to work toghether. Also I think that I can add more value, exploring creativity from these areas and join points that I had never thinked before, like music and fabrication.
 
-Criticality
+# Criticality
 
 This projects gathers very technical and abstract concepts. The 1PP exersice put me on a very different starting point, from beng too methodogical, to start creating from a very fast and plastic state of mind, The mindset from the initial question, kept me motivated to make things different than usual.
 
-Self reavealing comunication. (honesty)
+# Self reavealing comunication. (honesty)
 
 My project was made under a stream of consciousnes, so I think that was also very honest made. Using no filters to each activity. The thing that I missed, was to show my emotions and thoughts in the video, because in every discovery, I was a very exited, where I knew that the emotions had a lot to give. Maybe the documentation is sometimes an obstacle to work freely.
 
-Ethnographic material with confesional content.
+# Ethnographic material with confesional content.
 
 For this experiment, I made very personal actions, like playing guitar in my house. The video itself was not that confetional, because the actions were guided through a secuencial time. Maybe the most personal thing is that the subjects that I worked, are very related to my passions.
 
-Generalizability 
+# Generalizability 
 
 The Idea of manufacture with music, can be very interesting for other musicians, designers, scientist, sound engeneers, etc. It is in a very initial stage, but it can be extrapolated into a different area and context, to give and involve more meaning for others.
 
