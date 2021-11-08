@@ -47,7 +47,7 @@ One thing that i learned is how the materiality of objects, can lead to differen
 -Extreme situations
 -Design Intervention
 
-https://www.youtube.com/watch?v=VDu9yRFaVko
+<a>https://www.youtube.com/watch?v=VDu9yRFaVko</a> 
 
 I started with the Question, Can be the Music a potential "energy" to materialize something?
 
