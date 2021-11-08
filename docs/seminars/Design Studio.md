@@ -14,17 +14,17 @@ hide:
 
 Experiments:
 
-# 1)Grow Materials to generate something Usefull.
+## 1)Grow Materials to generate something Usefull.
 
-# 2)Make an action that normally you will use an object to acomplish, with the minimum resources.
+## 2)Make an action that normally you will use an object to acomplish, with the minimum resources.
 
-# 3)Using natures energy to create something
+## 3)Using natures energy to create something
 
-# INITIAL WORSPACE/TOOLBOX
+## INITIAL WORSPACE/TOOLBOX
 
 ![](../images/WS.png)
 
-New Toolbox
+## New Toolbox
 
 ![](../images/DS2.png)
 
