@@ -14,23 +14,10 @@ Sintetic Biology
 Tools
 Grow reproduce
 
-"Anything that have a piece of information that can perpetueate itdelf is alive"
+"Anything that have a piece of information that can perpetueate its elf is alive"
 
-Quantum mechanics
-
-Chemistry
-
-Bio Chemistry
-
-Molecular Biology
-
-Micro Biology
-
-Celular Biology
-
-Physiology
-
-Synthetic Biology
+Quantum mechanics/Chemistry/Bio Chemistry/Molecular Biology/Micro Biology/Celular Biology/Physiology
+/Synthetic Biology.
 
 "You can blame yourself if you conntinue doing bad things that you didnt knew that where bad before"
 
@@ -66,57 +53,25 @@ The sixth extintion
 
  Evolution machine that has constrains
 
- Development
-
- Convergent Evolution
-
- Optimized for creation
-
- The evolution of usefull things
-
-Material cultural evolution
-
-Biommimicry/ Serendipity (Velcro) Mimetize or copy
-
-Genetic algorithms
+ Development/Convergent Evolution/ Optimized for creation/The evolution of usefull things/Material cultural evolution/Biommimicry/ Serendipity (Velcro) Mimetize or copy/Genetic algorithms
 
 # Most optimized way (Micelyum example for prototype a city flow)
 
-Complex behaviors
-
-Synthetic Biology
-
-DIY lab Elements
-
+Complex behaviors/Synthetic Biology/DIY lab Elements
 
 EXPERIMENTS
 
-Create a generic media for frowing bacterias
+-Create a generic media for frowing bacterias
+-Grow kombucha Scooby
+-Grow Spirulina
+-Use of microscopes
+-How to make a PCR
+-Cook Biomaterials
 
-for 1 LT
+Tasks
 
--100 ml of water
-
--10g
-
-15 g Agar Agar
-
-**Task**
-
-Think in a problem as crazy as possible, related to genetic engeneering see how far we are in that future. and try to reflect how to solve it, and how to tackle the investigation.
-
-No format. 
-
-Environment:
-
-wich kind of bacteria:
-
-i will genetycally modify:
-
-Wich process will I make:
-
-Name of the Gene:
-
+Read a Scientfic paper, Make an analysis and reflections.
+Make a "mutant", project, how we can empower with gene modification. using igem.
 
 
 
