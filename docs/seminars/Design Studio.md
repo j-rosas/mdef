@@ -107,7 +107,7 @@ Materials:
 
 New Toolbox
 
-![](../images/DS2.PNG)
+![](../images/DS2.png)
 
 
 POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
