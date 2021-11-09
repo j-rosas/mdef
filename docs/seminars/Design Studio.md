@@ -36,6 +36,10 @@ POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
 ![](../images/OP2.png)
 
 
+Derivable 1 : A reflection on how you are documenting and communicating your work
+
+Derivable 2: Video wich can include multiple ways of video journaling documenting the course tech beyond myth.
+
 
 
 
