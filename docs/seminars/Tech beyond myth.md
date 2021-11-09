@@ -3,9 +3,12 @@ hide:
     - toc
 ---
 
+##### Week 6
+
+
 ## Tech Beyond Myth
 
-### Week 6
+
 
 #### Forensics of the obsolescence
 

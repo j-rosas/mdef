@@ -3,6 +3,8 @@ hide:
     - toc
 ---
 
+##### Week 4
+
 # First Experiments
 
 This set of experiments started from the curiosity of growing almost anything and the use of efficient resources as a way to develop projects.
@@ -20,5 +22,6 @@ The third one aims to use the mechanical energy of living organisms to enable th
 ![](../images/E2.png)
 
 ![](../images/E3.png)
+
 
 

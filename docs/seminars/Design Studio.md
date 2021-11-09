@@ -52,20 +52,20 @@ For this project I had used the energy of the Carnivore plant, so when it picked
 ![](../images/DS2.png)
 
 
-### POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
+### Position ourselves in the Design space and make a reflection.
 
 ![](../images/OP1.png)
 
 ![](../images/OP2.png)
 
 
-### Week 3
+##### Week 5
 
-Derivable 1 : A reflection on how you are documenting and communicating your work
+### A reflection on how you are documenting and communicating your work
 
 
 
-Derivable 2: 3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIENT!!)
+### 3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIENT!!)
 
 
 

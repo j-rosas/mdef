@@ -65,7 +65,7 @@ My poster reflects how the future should be, in my perspective, there has to be 
 
 **![](../images/personald.png)**
 
-My Identity is vey powerfull as a designer itself, from a long time ago, I started designing even before start going to Design school, Almost every Sunday, I tried to create something interesting and usefull. My skills are maily from building things, related to design, crafts and arts, to beaing an easy learner in some aspects, I have to recognize that electronics and programming are a bit difficult for me to learn.
+My Identity is very powerfull as a designer itself, from a long time ago, I started designing even before start going to Design school, Almost every Sunday, I tried to create something interesting and usefull. My skills are maily from building things, related to design, crafts and arts, to beaing an easy learner in some aspects, I have to recognize that electronics and programming are a bit difficult for me to learn.
 
 Related to my attitude, I feel like a very positive person, allways trying to go for the bright side, aalso trying to be a fresh person, related to people, and new knowledge that is arround. Also Im very Open and confident about the things that I do, and im very bad to say No to challenges. 
 
