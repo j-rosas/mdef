@@ -20,8 +20,8 @@ In this process I had discovered that my fight will be the “bridge” or conne
 
 Poster:
 
-![](../images/poster2.jpg)
-![](../images/poster3.jpg)
+![](../images/poster2.JPG) ![](../images/poster3.JPG)
+
 
 
 **Some of my actual questions are:**
@@ -86,6 +86,8 @@ My new professional Identity, would be like an digital fabrication designer + Te
 5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
 
 ![](../images/personalplan.jpg)
+
+I had made a circular draft for the first term, because I think that the 1st term process is circular, not returning to zero, but to gain the experience of the courses and become a "new me" with all the new knowledge and experiences.
 
 6) Justify and describe your "draft" personal development plan for the master program.
 

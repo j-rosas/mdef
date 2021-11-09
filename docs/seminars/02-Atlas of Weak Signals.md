@@ -5,7 +5,7 @@ hide:
 
 ### Week 2
 
-# ATLAS OF WEAK SIGNALS
+# Atlas of weak signals
 
 ### Initial Design Space
 
