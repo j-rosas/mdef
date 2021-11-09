@@ -11,7 +11,7 @@ Kristina Anderson
 Oscar Tomico
 
 
-Myself Drawing in a minute:
+#### Myself Drawing in a minute:
 
 #### ![](../images/LOI1.PNG)
 
@@ -28,7 +28,7 @@ Also the machine is kind of a mask in a way, because it shows the desire of crea
 
 
 
-Group Machines:
+#### Group Machines:
 
 ![](../images/LOI4.JPG)
 
@@ -39,7 +39,7 @@ Another observation that we made as a group was that at the same time, we aim to
 
 One thing that i learned is how the materiality of objects, can lead to different interpretations of reality and can make people to connect with very deep and abstract ideas, making this exersice a great vehicle for creativity and connection with our selfs, and our thoughts and emotions in the context that we are or in a context that we want to be.
 
-# THE FIRST DAY OF MY NEW LIFE / 1PP 
+##### THE FIRST DAY OF MY NEW LIFE / 1PP 
 
 ## Concepts:
 
@@ -56,7 +56,10 @@ I started with the Question, Can be the Music a potential "energy" to materializ
 Recomendation from teachers: 
 Keep it close, do a lot of experiments, "see what happens", the restriction: Had to be music made by me, not others.
 
+
 ![](../images/1PP.png)
+
+From the magical machines exerseice, I had realized that I allways persue music as a creative way to build something, as a non profesional musician, Im allways trying to mix music with my projects. So in this case, I started doing a musical breakfast, so I recorded every step of making a normal breakfast and then I manage to edit it in different ways in Logic pro,A music composer software. At first I joined all the sounds to sound at the same time, then I arranged it in a random order to see what would happen, then I ordered the sounds in a logical way to make them more pleasant to the ear. the result was very tipical so I moved forward. then I took the shaving machine, and started to shave myself in a musical rythm, then I realized that the hairs of my face, were like little dots in a pentagram, so I manage to order those hairs in a musical pentagram, and that action lead me to pick my guitar and play somethig inspired from that action. When I reached my guitar I htried different ways the musical amp make noise and energy, I realized that the bass notes were powerfull and moved more air compared to the treble, so I realized that I can puth thing to see that movenment of the speaker. then I moved forward adding a white paper and different types of dust, to see how it would change with different bass notes. Finally I manage to solidify the dust with some glue, at the same time that the speaker was moving, so I had created a unique shape mixing the material and the energy, with that result, I had answered my question, with a very promisin direction. 
 
 
 ## A guide to successfull Auto Ethnography 
