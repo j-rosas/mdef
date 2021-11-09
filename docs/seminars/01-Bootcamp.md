@@ -3,9 +3,9 @@ hide:
     - toc
 ---
 
-**1st term:**
+### Week 1
 
-Design Bootcamp
+### Design Bootcamp
 
 Activities:
 
@@ -20,7 +20,6 @@ In this process I had discovered that my fight will be the “bridge” or conne
 
 Poster:
 
-![](../images/poster1.jpg)
 ![](../images/poster2.jpg)
 ![](../images/poster3.jpg)
 
@@ -55,20 +54,34 @@ https://joaquinrosas.com/MAKE-CARE
 Know, want I want to learn. make the switch, form passive learning to take control where i want to go, and where I want to learn.
 
 
+### 1) Look at your poster as your design vision of how our (social) world could be in the (near) future
 
-1) Look at your poster as your design vision of how our (social) world could be in the (near) future
 
-2) Describe your professional identity in terms of skills, knowledge and attitude.
+My poster reflects how the future should be, in my perspective, there has to be people "joining the dots", unifying the creative aspects and profesions, with citizens and people, as Victor Papanek said, Design can be a very well use tool, or the most dangerous carreer of all. The main thing is that design can change realities, points of view, and the most important, can improve peoples lifes.
 
-![](../images/personald.png)
+### 2) Describe your professional identity in terms of skills, knowledge and attitude.
 
-3) Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge and attitude
+
+
+**![](../images/personald.png)**
+
+My Identity is vey powerfull as a designer itself, from a long time ago, I started designing even before start going to Design school, Almost every Sunday, I tried to create something interesting and usefull. My skills are maily from building things, related to design, crafts and arts, to beaing an easy learner in some aspects, I have to recognize that electronics and programming are a bit difficult for me to learn.
+
+Related to my attitude, I feel like a very positive person, allways trying to go for the bright side, aalso trying to be a fresh person, related to people, and new knowledge that is arround. Also Im very Open and confident about the things that I do, and im very bad to say No to challenges. 
+
+My knowledge goes mainly in creative ways, like design, arts, materials, methodologies, etc. I find myself like a " sea of 1mm of depth" because I love to learn  and do a lot but mainly with no depth in everything
+
+### 3) Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge and attitude
 
 ![](../images/desiredpi.png)
 
+With the meetings I had found that I had been atracted to lear programming and coding as some classmates, but it allways goes to nothing, because I don´t keep practising it, and when I had the chance, in FabLab U. de Chile, I had been "safe" in my own knowledge and tasks. So thats a very interesting challenge for me.
+
+Also im beginning to interest in new subjects, as AI, VR, and Biology.
+
 4) Based on your vision and what attracts you from the “meetings” create your desired professional identity
 
-
+My new professional Identity, would be like an digital fabrication designer + Technological tools, like programming and the use of electronics in projects. I would love to learn more about it in "Tech beyond myth"
 
 5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
 
@@ -142,3 +155,7 @@ Know, want I want to learn. make the switch, form passive learning to take contr
 **Skills:Mix with different disciplines, learn tools
 **Knowledge: how to apply this info to projects, authors, extrapolate info.
 **Attitude:**Explore, discus, colaborative, debate approach, reflective, ideate.
+
+
+To continue exploring, is necessary to make things!!
+The task is to just make an experiment, as simple as posible, related to the subject.
