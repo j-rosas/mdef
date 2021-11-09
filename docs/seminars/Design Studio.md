@@ -12,15 +12,15 @@ hide:
 3. Do your first design experiment applying one or different roles of prototyping.
 
 
-Experiments:
+### Experiments:
 
-## 1)Grow Materials to generate something Usefull.
+ 1)Grow Materials to generate something Usefull.
 
-## 2)Make an action that normally you will use an object to acomplish, with the minimum resources.
+2)Make an action that normally you will use an object to acomplish, with the minimum resources.
 
-## 3)Using natures energy to create something
+3)Using natures energy to create something
 
-## INITIAL WORSPACE/TOOLBOX
+### INITIAL WORSPACE/TOOLBOX
 
 ![](../images/WS.png)
 
@@ -29,7 +29,7 @@ Experiments:
 ![](../images/DS2.png)
 
 
-POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
+### POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
 
 ![](../images/OP1.png)
 
@@ -38,7 +38,7 @@ POSITION OURSELVE IN THE DESIGN SPACE AND MAKE A REFLECTION.
 
 Derivable 1 : A reflection on how you are documenting and communicating your work
 
-Derivable 2: Video wich can include multiple ways of video journaling documenting the course tech beyond myth.
+Derivable 2: 3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIENT!!)
 
 
 
