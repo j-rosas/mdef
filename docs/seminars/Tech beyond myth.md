@@ -11,18 +11,9 @@ Forensics of the obsolescence
 
 We manage to disasemble diferent thigs, like a Irobot Roomba, A tv, a Macbook. and then we had to analize them in very different ways, and documented here.
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>https://hackmd.io/INk2gThpSkObQQ_E62gxow?both</title>
-</head>
-<body>
+https://hackmd.io/INk2gThpSkObQQ_E62gxow?both
 
-</body>
-</html>
-
-Then
+We manage disasemble a Roomba Robot by team, It was a very interesting choice, because is a very multifuntional robot, that have motors and sensors. We find out that the Robot was much more simple that we imagine, when we resume the functions, in navigation, sensors, hardware, we manage to undertand the main function of it. Then We search for different parts Online, to find out what they were, and look for info.
 
 
 
