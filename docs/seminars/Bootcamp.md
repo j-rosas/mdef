@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-### Week 1
+##### Week 1
 
 ### Design Bootcamp
 
@@ -79,83 +79,126 @@ With the meetings I had found that I had been atracted to lear programming and c
 
 Also im beginning to interest in new subjects, as AI, VR, and Biology.
 
-4) Based on your vision and what attracts you from the “meetings” create your desired professional identity
+### 4) Based on your vision and what attracts you from the “meetings” create your desired professional identity
 
 My new professional Identity, would be like an digital fabrication designer + Technological tools, like programming and the use of electronics in projects. I would love to learn more about it in "Tech beyond myth"
 
-5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
+### 5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
 
 ![](../images/personalplan.jpg)
 
+
+### 6) Justify and describe your "draft" personal development plan for the master program.
+
 I had made a circular draft for the first term, because I think that the 1st term process is circular, not returning to zero, but to gain the experience of the courses and become a "new me" with all the new knowledge and experiences.
 
-6) Justify and describe your "draft" personal development plan for the master program.
+**Week 1**
 
-**Week**:1
 **Asignature**:MDEF Bootcamp
+
 **Skills**:Use of workshop tools, get use to iaac space, Learn git, and web programming
+
 **Knowledge**: design theory, new concepts of design, new learning process, working adaptation.
+
 **Attitude:**Open minded, ready for adapt/change, effort on focus, team work, ask a lot, open with classmates, effective in time.
 
 
-**Week**:2
+**Week  2**
+
 **Asignature**:Atlas of weak signals
+
 **Skills**:Learn tools and methods to find this signals, get use to search tools, create vocabulary.
+
 **Knowledge**: Learn this signals, maybe create a toolkit?, 1 person perspective
+
 **Attitude:**Inmersive, Develop empathy, comprehensive, able to develop some methods.
 
-**Week**:3
+**Week 3**
+
 **Asignature**:Bio 0
+
 **Skills**:Investigate methods, material theory, Biology tools, put in practice scientific method, learn to share.
+
 **Knowledge**: Biology, New trends, biology and chemistry basics, share knowledge.
+
 **Attitude:**Experimental, Open to any disovery, ask Biologist and Chemistry friends in Chile,Break the barriers and stereotypes of "professionals" or "traditional careers", Nature aproach to develop projects.
 
-**Week**:4
+**Week 4**
+
 **Asignature**:Agri 0
+
 **Skills**:Investigate methods, material theory, Biology tools, put in practice scientific method, learn to share.
+
 **Knowledge**: learn about local waste, and local industry.
+
 **Attitude:**Active, talk to local people, in neighborhoods, find in situ projects.
 
-**Week**:5
+**Week 5**
+
 **Asignature**:Living with own Ideas
+
 **Skills**:Fast prototiping, synthesis hability, from concept to reallity.
+
 **Knowledge**: Start a topic, investigate, know more about user and context investigation.
+
 **Attitude:**Agile, fast learning, open and flexible, not aprehensive.
 
-**Week**:6
+**Week 6**
+
 **Asignature**: Tech beyond myth
+
 **Skills**:Programing, electronics, get used to work with tech, look for usefull projects.
+
 **Knowledge**: data world, how to fight obsolescence. how to use/understand tech as a tool.
+
 **Attitude:**Open minded, ready for adapt/change, effort on focus, team work, ask a lot, open with classmates, effective in time.
 
-**Week**:7
+**Week 7**
+
 **Asignature**: Machines that make
+
 **Skills**:Use of digital fabrication machines, analog building, find value on electronic waste.
+
 **Knowledge**: Bits to atoms theory, how to grow materials, how to mix digital fab and work.
+
 **Attitude:**Critical, creative, explore a lot, trial and error, learn by doing.
 
-**Week**:8
+**Week 8**
+
 **Asignature**: Comunity Engagement
+
 **Skills**:Comunicate in an efficient way, research tools, etnography.
 **Knowledge**: Understand Ecosystems, learn new research methods, how to design and work with communities.
+
 **Attitude:**Active, alert for local context, talk and work with people a lot, register, strategic.
 
-**Week**:9
+**Week 9**
+
 **Asignature**: Designing with AI
+
 **Skills**:Learn about AI tools, projects, get used to work with.
 **Knowledge**: state of the art, find possibilities, mix it with machine learnig.
+
 **Attitude:**Open to learn, is a very new subject to me, be agile to "join the dots".
 
-**Week**:10
+**Week10**
+
 **Asignature**: Expanded Inteligence
+
 **Skills**:Software tools, autonomy tools.
+
 **Knowledge**: Theory, ethics involved, be concient of pros and cons.
+
 **Attitude:**Open, think of applications to the real world.
 
-**Week: 11
-**Asignature: Next Billion Seconds
-**Skills:Mix with different disciplines, learn tools
-**Knowledge: how to apply this info to projects, authors, extrapolate info.
+**Week 11**
+
+**Asignature:**Next Billion Seconds
+
+**Skills:**Mix with different disciplines, learn tools
+
+**Knowledge:** how to apply this info to projects, authors, extrapolate info.
+
 **Attitude:**Explore, discus, colaborative, debate approach, reflective, ideate.
 
 

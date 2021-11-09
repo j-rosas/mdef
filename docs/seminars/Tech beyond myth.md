@@ -5,7 +5,7 @@ hide:
 
 ## Tech Beyond Myth
 
-### Week 1
+### Week 6
 
 #### Forensics of the obsolescence
 
