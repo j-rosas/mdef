@@ -13,67 +13,29 @@ Jonathan Minchin
 
 Nuria Conde
 
-Sintetic Biology
-Tools
-Grow reproduce
 
-"Anything that have a piece of information that can perpetueate its elf is alive"
+**Grow your own Bacteria**
 
-Quantum mechanics/Chemistry/Bio Chemistry/Molecular Biology/Micro Biology/Celular Biology/Physiology
-/Synthetic Biology.
+**Spirulina**
 
-"You can blame yourself if you conntinue doing bad things that you didnt knew that where bad before"
+**Microscopes**
 
-EMPOWER¡¡
+**Grow scooby**
 
-PLANETARY WELLBEING
+**PCR**
 
-Climate refugees
-global/local
+**Scientific method and tools**
 
-Antthropocene
-contamination
-element extractivism
 
-PARADOX WORLDS
+##### Week 4
 
-how digital emits C02
-Population
+**Analisis and comparison of Soils**
 
-Links:
+**Analise ph levels**
 
-[https://www.census.gov/popclock/]
-[https://sci-hub.mksa.top]
+**Cook biomaterials**
 
-Books: 
-
-Critical mass / phillip ball
-The sixth extintion
-
-# Biological Optimized Design
-
- If a different planet were instaled, it would be the same? 
-
- Evolution machine that has constrains
-
- Development/Convergent Evolution/ Optimized for creation/The evolution of usefull things/Material cultural evolution/Biommimicry/ Serendipity (Velcro) Mimetize or copy/Genetic algorithms
-
-# Most optimized way (Micelyum example for prototype a city flow)
-
-Complex behaviors/Synthetic Biology/DIY lab Elements
-
-**Experiments**
-
--Create a generic media for frowing bacterias
--Grow kombucha Scooby
--Grow Spirulina
--Use of microscopes
--How to make a PCR
--Cook Biomaterials
-
-Tasks
-
-Make a "mutant", project, how we can empower with gene modification. using igem.
+**Get escential Oils from laurel**
 
 
 **Scientific Paper:**
@@ -88,8 +50,6 @@ Neri Oxman job has allways impressed me, the first time I saw the silk pavilion,
 the process of obtainnig the silk, has been for hundreds of years a process againts nature, because normally the cocoons of silk are boiled to separate the silk, killing the worms, growed in farms and in a non organic way. The interesting thing about this new process, Is that they propose a new way to extract sik without killing the worms, by letting them to wove their cocoons, and at the same time, evolve into the next stage of the larva.
 
 I picked this paper to understand in an specific way, how this ingestigation started, how the probes were made, to understand how is possible to work with this organic systems and to create new ways of manufacture.
-
-
 
 **Sumary**
 
@@ -122,6 +82,21 @@ Using a Kuka robot, they manage to install a headset to the robotic arm, that de
 
 
 ![](../images/SW2.jpg)
+
+
+**Making a mutant**
+
+**Reflection**
+
+This set of lectures, were very interesting and inspiring because from the biology point of view, my interest in grow almost anything, has to do a lot. Also for me, is necesarry to know the basics of biology, if im going to work with biofabrication, biomaterials and living organisms. I also would be using a lot my toolbox network, to contact profesionals if I have more doubts about biology.
+
+The only comment that I would do to Nuria is that in some parts, the concepts were too "scientific", so I get lost sometimes in the terminology, but with a bit of asking and time, I was able to understand the main concepts.
+
+Also all the practical area in both Bio / Agri, were very insightfull, because we were able to see how a lot of things work, like how to grow bacterias, or how to work in a sterile environment. That are totally usefull things that I will be useing for shure along the master.
+
+For de Agri Zero week, I found that im much more interested and related to the conuntryside that I was aware. All my youth I used to lived in  the countryside of Curicó, a city in the middle south of Chile, famous for its Vineyards and fields for agriculture. Also my both parents are agronomists, so I had been related to the field mostly all my life. I find very interesting to use Barcelona as a natural laboratory. we have a big opportunity to work with nature here, and take advantage of Valldaura labs as well, if we need some countryside help or inspiration
+
+
 
 
 
