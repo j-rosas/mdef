@@ -7,6 +7,9 @@ hide:
 
 # Atlas of weak signals
 
+Teacher: Mariana Quintero
+         
+
 ### Initial Design Space
 
 ![](../images/ws1.png)
@@ -60,17 +63,22 @@ The Atlas of weak signals is a very interesting tool that helps to connect subje
 
 ### 3. **Screenshots of your collaborative design space**
 
+![](../images/CB.png)
+
 ### 1. How was the experience of finding points of resonance with others?
+
+In the collserolla Trip, we had a very good time talking beetween classmates, and there we had to take with us only one weak signal, so that make us decide and talk to each other about our choices. That was very interesting because we share opinions, previous projects that we knew, and knowledge about every subject. Also being in the park was a perfect instance to disconnect and just talk about the topic.
     
 ### 1. Someone you would like to contact
 
 For this investigation I will contact a lot of people from different networks, and places:
 
 **Chile:**
-Bruno Grossi-Biologist Phd in Biomimetics
-Biolab UC- Work and reaserch in biomaterials
-Carolina Pacheco- Works in Cal.careo, growing things and structures in calcium carbonate.
-Nicolas Viollier- MDEF Alumni, works with mycelium and regenerative design.
+Bruno Grossi/Biologist Phd in Biomimetics
+
+Biolab UC/ Work and reaserch in biomaterials
+Carolina Pacheco/ Works in Cal.careo, growing things and structures in calcium carbonate.
+Nicolas Viollier/ MDEF Alumni, works with mycelium and regenerative design.
 
 
 **Spain**
