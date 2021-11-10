@@ -7,7 +7,7 @@ hide:
 
 # BIOLOGY ZERO
 
-# Teachers:
+Teachers:
 
 Jonathan Minchin
 Nuria Conde
@@ -41,8 +41,8 @@ Population
 
 Links:
 
-https://www.census.gov/popclock/
-https://sci-hub.mksa.top
+[https://www.census.gov/popclock/]
+[https://sci-hub.mksa.top]
 
 Books: 
 
