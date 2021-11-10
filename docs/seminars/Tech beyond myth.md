@@ -39,6 +39,12 @@ Some pieces of the roomba, wheels, DC motors, a LOT of plastics parts from the f
 
 All pieces of the dissasembled roomba.
 
+2021 Roomba
+
+![](../images/300px.jpg)
+
+![](../images/600px.jpg)
+
 
 
 

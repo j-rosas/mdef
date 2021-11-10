@@ -7,8 +7,12 @@ hide:
 
 # Living With your own Ideas
 
+Teachers:
 Kristina Anderson
+
 Oscar Tomico
+
+Angela Mackey
 
 
 #### Myself Drawing in a minute:
