@@ -18,7 +18,7 @@ Angela Mackey
 
 #### Myself Drawing in a minute:
 
-#### ![](../images/postit.jpg)
+#### ![](../images/Postit.jpg)
 
 I picture myself as a very big guy with a pencil in a hand, and a guitar for making music, also with open arms reminding me that I have to be open to new ideas, also in a forest, because i allways like to be arround nature.
 
