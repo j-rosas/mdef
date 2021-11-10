@@ -7,7 +7,8 @@ hide:
 
 # Living With your own Ideas
 
-Teachers:
+**Teachers:**
+
 Kristina Anderson
 
 Oscar Tomico

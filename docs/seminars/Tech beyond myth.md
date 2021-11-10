@@ -9,6 +9,15 @@ hide:
 ## Tech Beyond Myth
 
 
+**Teachers:**
+
+Guillem Camprodon
+
+Victor Barberan
+
+Oscar Gonzalez
+
+Santiago Fuentemilla
 
 #### Forensics of the obsolescence
 

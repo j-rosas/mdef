@@ -7,9 +7,10 @@ hide:
 
 # BIOLOGY ZERO
 
-Teachers:
+**Teachers:**
 
 Jonathan Minchin
+
 Nuria Conde
 
 Sintetic Biology

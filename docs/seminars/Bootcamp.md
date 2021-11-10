@@ -7,6 +7,10 @@ hide:
 
 ### Design Bootcamp
 
+**Teacher:** 
+
+Oscar Tomico
+
 Activities:
 
 **1) Whats your fight?**

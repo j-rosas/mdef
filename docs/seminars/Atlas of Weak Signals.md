@@ -7,7 +7,9 @@ hide:
 
 # Atlas of weak signals
 
-Teacher: Mariana Quintero
+**Teacher:**
+
+Mariana Quintero
          
 
 ### Initial Design Space

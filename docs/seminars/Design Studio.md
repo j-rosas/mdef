@@ -5,6 +5,12 @@ hide:
 
 ##### Week 4
 
+**Teachers:**
+
+Oscar Tomico
+
+Tomás Vivanco
+
 # Design Studio
 
 
