@@ -11,15 +11,11 @@ hide:
 
 Mariana Quintero
          
-
-### Initial Design Space
+**Initial Design Space**
 
 ![](../images/ws1.png)
 
-
-### Second assignment.
-
-1. **Screenshots of your individual design space**
+**1. Screenshots of your individual design space**
     1. Why did you choose your main weak signals?How do they relate to the fight you presented one week ago?
 
     How to grow almost anything thrills me to encourage the future of fabrication in a very interesting way. Looking how nature build its all structures and different kind of things, It is a bit difficult to relate to my fight that looks more with a social aproach, but I think one of the oportunities is to find the link betweeen this areas.
