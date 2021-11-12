@@ -68,7 +68,7 @@ From the magical machines exersice, I had realized that I allways persue music a
 
 https://media.giphy.com/media/nEAxQznj4skWwXYD4s/giphy.gif
 
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/nEAxQznj4skWwXYD4s" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nEAxQznj4skWwXYD4s">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/nEAxQznj4skWwXYD4s" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nEAxQznj4skWwXYD4s">via GIPHY</a></p>
 
 ## A guide to successfull Auto Ethnography 
 
