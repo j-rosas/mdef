@@ -55,6 +55,52 @@ All pieces of the dissasembled roomba.
 ![](../images/600px.jpg)
 
 
+Day 2 Data
+
+
+## Actity: Find an objective, that can be very local, and can be extrapolated to new opportunities.
+
+**Objective**
+
+Make young people feel less lonely
+
+
+**Question**
+
+Is instant messaging make people more lonely than other generations?
+
+**Hypothesis**
+
+Instant messaging is making people feel lonenly in Barcelona
+
+**Plan**
+
+Ussually when people feel alone, they get into their cellphones, even if they are with more people, We noticed that people "hide their cellphone under the table, to get into whatsapp of different apps, so we decided to use the Arduino LDR sensor to detect the bright of the cellphone screen down the table.
+
+(photo of people)
+
+At firts, We tried to get information with one light sensor, trying different sources of light, like phonescreen, phone led, Also understanding the levels of the sensor reflected in the screen.
+
+(photo of arduino, with one sensor)
+
+With the light sensor working, we noticed that the LDR sensor is very directional, so with the help of Victor and guillem, we manage to program add three more sensors to have more directions for recieving light. 
+
+(photo of arduino program)
+
+**Capture**
+
+At first, We went to different restaurants and coffees, looking lonely people sitting and having luch, we found a lot of people alone, looking their phones, but then we realized that people that sit alone, use their cellphones above the table. So we imagine our data collector
+in situations like bars at night or restaurants, where people gather toghether but they still use messaging, or check instagram,etc.
+
+(photo of restaurants)
+
+Finally we went to Itnig coffee, to apply the sensor in a table, so we 
+
+**Evaluate**
+
+
+
+
 
 
 
