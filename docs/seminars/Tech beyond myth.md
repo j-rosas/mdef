@@ -55,7 +55,7 @@ All pieces of the dissasembled roomba.
 ![](../images/600px.jpg)
 
 
-Day 2 A world in Data
+#### A world in Data
 
 
 ## Actity: Find an objective, that can be very local, and can be extrapolated to new opportunities.
@@ -136,6 +136,9 @@ The findings:
 - phone
 
 #### Data collected
+
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://im2.ezgif.com/tmp/ezgif-2-a8061346e2ee.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nEAxQznj4skWwXYD4s">
+
 
 ![](https://im2.ezgif.com/tmp/ezgif-2-a8061346e2ee.gif)
 
