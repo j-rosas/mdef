@@ -88,6 +88,32 @@ Using a Kuka robot, they manage to install a headset to the robotic arm, that de
 
 **Making a mutant**
 
+The drought has been a issue from long time ago, but now we can see its impact in a lot of scenes. In Chile, The desertification its happening rigth know, and its effects are vissible to the eye. "Aculeo" lagoon was a balneary 30 min far from Santiago, where families have houses arround the lake, and ussually go for the weekend to swim and make watersports. Today that lagoon is a desert field of dry land, where horses and cows eat grass.
+
+There are some local inventions to battle the drought, One is called "fresh water". Its a home machine that literaly takes water from the air and transform it to drinkable water. That process is very interesting, and it has been used for little comunities  that have no acces to potable water.
+
+This kind pf project are very nice inventions, but to make that proceses, they use a lot of energy, electricity, and resources to be constructed. Other iniciatives, are the recollectors of morning humidity in the coast, called "camanchaca". They are inspired in plants or grass, that recollect the morning fog´s water to hidratate the plant or soil. Its the same Idea, but with a horizontal net that gathers drops of water to acumulate it to pipes or more bigger water containers, so we are literally getting water from humidity.
+
+(Beetle picture)
+
+My idea of gene mutation is inspired by human made water recolection systems, and some nature systems, like the Namib desert beetle, that use its legs to recollect or harvest water from the fog in the air.
+
+Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? 
+
+
+
+
+https://www.science.org/content/article/could-desert-beetle-help-humans-harvest-water-thin-air
+
+https://oceanadventures.co.za/animals-regulate-body-temperature/
+
+https://oceanfdn.org/the-thermoregulating-ectotherm/
+
+
+
+
+
+
 **Reflection**
 
 This set of lectures, were very interesting and inspiring because from the biology point of view, my interest in grow almost anything, has to do a lot. Also for me, is necesarry to know the basics of biology, if im going to work with biofabrication, biomaterials and living organisms. I also would be using a lot my toolbox network, to contact profesionals if I have more doubts about biology.
