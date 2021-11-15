@@ -136,9 +136,13 @@ Massachusetts Institute of Technology, Cambridge, Massachusetts, USA*
 
 ###### This kind pf project are very nice inventions, but to make that proceses, they use a lot of energy, electricity, and resources to be constructed. Other iniciatives, are the recollectors of morning humidity in the coast, called "camanchaca". They are inspired in plants or grass, that recollect the morning fog´s water to hidratate the plant or soil. Its the same Idea, but with a horizontal net that gathers drops of water to acumulate it to pipes or more bigger water containers, so we are literally getting water from humidity.
 
-(Beetle picture)
+![](../images/BT.png)
 
 ###### My idea of gene mutation is inspired by human made water recolection systems, and some nature systems, like the Namib desert beetle, that use its legs to recollect or harvest water from the fog in the air.
+
+###### There is an impressive reptile, that has the possibillity to control its temperature form external factors. The Leatherback turte.
+
+###### *"Leatherback sea turtles are so successful at regulating their body temperature that they have the ability to maintain constant body temperature 18 degrees above or below the ambient temperature. That is so incredible that some researchers argue because this process is metabolically accomplished leatherback sea turtles are actually endothermic. However, this process is not anatomically conducted, therefore most researchers suggest this is a diminutive version of endothermy at best."*
 
 ###### Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? s
 

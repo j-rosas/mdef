@@ -15,11 +15,11 @@ Activities:
 
 **1) Whats your fight?**
 
-I realised my "personal" fight when I was doing my degree project, it s called Make Care. Its about taking care of the necesities of young people with Epidermolisis Bullosa(Cristal Skin) and a development of a set of products that tackles Daily life issues, that allows tho the young self dependancy of their caretakers, ussually fathers or family members that protect this kids in an overprotective way.
+###### I realised my "personal" fight when I was doing my degree project, it s called Make Care. Its about taking care of the necesities of young people with Epidermolisis Bullosa(Cristal Skin) and a development of a set of products that tackles Daily life issues, that allows tho the young self dependancy of their caretakers, ussually fathers or family members that protect this kids in an overprotective way.
 
-The project is open source, and all objects are 3d printed, and assembled with commercial pieces, because there are 200 people with this desease in Chile, But a lot in the world, so the idea is to enable people, foundations, and hospitals, to download and link with digital fabricators, such as fablabs, maker spaces, to Connect the products with young People with EB.
+###### The project is open source, and all objects are 3d printed, and assembled with commercial pieces, because there are 200 people with this desease in Chile, But a lot in the world, so the idea is to enable people, foundations, and hospitals, to download and link with digital fabricators, such as fablabs, maker spaces, to Connect the products with young People with EB.
 
-In this process I had discovered that my fight will be the “bridge” or connection beetween comunities, people, minorities, and joinig them with multidisciplinary teams, professionals, and creative people that are more used to develop and create new things. Connecting the unconnected points in the most creative, locally, efficient and resourcefull way.
+###### In this process I had discovered that my fight will be the “bridge” or connection beetween comunities, people, minorities, and joinig them with multidisciplinary teams, professionals, and creative people that are more used to develop and create new things. Connecting the unconnected points in the most creative, locally, efficient and resourcefull way.
 
 
 Poster:
@@ -30,7 +30,7 @@ Poster:
 
 **Some of my actual questions are:**
 
-Research:
+###### Research:
 
 -minorities
 
@@ -55,13 +55,13 @@ https://joaquinrosas.com/MAKE-CARE
 
 **"Personal development Plan"**
 
-Know, want I want to learn. make the switch, form passive learning to take control where i want to go, and where I want to learn.
+###### Know, want I want to learn. make the switch, form passive learning to take control where i want to go, and where I want to learn.
 
 
 ### 1) Look at your poster as your design vision of how our (social) world could be in the (near) future
 
 
-My poster reflects how the future should be, in my perspective, there has to be people "joining the dots", unifying the creative aspects and profesions, with citizens and people, as Victor Papanek said, Design can be a very well use tool, or the most dangerous carreer of all. The main thing is that design can change realities, points of view, and the most important, can improve peoples lifes.
+###### My poster reflects how the future should be, in my perspective, there has to be people "joining the dots", unifying the creative aspects and profesions, with citizens and people, as Victor Papanek said, Design can be a very well use tool, or the most dangerous carreer of all. The main thing is that design can change realities, points of view, and the most important, can improve peoples lifes.
 
 ### 2) Describe your professional identity in terms of skills, knowledge and attitude.
 
@@ -69,23 +69,23 @@ My poster reflects how the future should be, in my perspective, there has to be 
 
 **![](../images/personald.png)**
 
-My Identity is very powerfull as a designer itself, from a long time ago, I started designing even before start going to Design school, Almost every Sunday, I tried to create something interesting and usefull. My skills are maily from building things, related to design, crafts and arts, to beaing an easy learner in some aspects, I have to recognize that electronics and programming are a bit difficult for me to learn.
+###### My Identity is very powerfull as a designer itself, from a long time ago, I started designing even before start going to Design school, Almost every Sunday, I tried to create something interesting and usefull. My skills are maily from building things, related to design, crafts and arts, to beaing an easy learner in some aspects, I have to recognize that electronics and programming are a bit difficult for me to learn.
 
-Related to my attitude, I feel like a very positive person, allways trying to go for the bright side, aalso trying to be a fresh person, related to people, and new knowledge that is arround. Also Im very Open and confident about the things that I do, and im very bad to say No to challenges. 
+###### Related to my attitude, I feel like a very positive person, allways trying to go for the bright side, aalso trying to be a fresh person, related to people, and new knowledge that is arround. Also Im very Open and confident about the things that I do, and im very bad to say No to challenges. 
 
-My knowledge goes mainly in creative ways, like design, arts, materials, methodologies, etc. I find myself like a " sea of 1mm of depth" because I love to learn  and do a lot but mainly with no depth in everything
+###### My knowledge goes mainly in creative ways, like design, arts, materials, methodologies, etc. I find myself like a " sea of 1mm of depth" because I love to learn  and do a lot but mainly with no depth in everything
 
 ### 3) Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge and attitude
 
 ![](../images/desiredpi.png)
 
-With the meetings I had found that I had been atracted to lear programming and coding as some classmates, but it allways goes to nothing, because I don´t keep practising it, and when I had the chance, in FabLab U. de Chile, I had been "safe" in my own knowledge and tasks. So thats a very interesting challenge for me.
+###### With the meetings I had found that I had been atracted to lear programming and coding as some classmates, but it allways goes to nothing, because I don´t keep practising it, and when I had the chance, in FabLab U. de Chile, I had been "safe" in my own knowledge and tasks. So thats a very interesting challenge for me.
 
 Also im beginning to interest in new subjects, as AI, VR, and Biology.
 
 ### 4) Based on your vision and what attracts you from the “meetings” create your desired professional identity
 
-My new professional Identity, would be like an digital fabrication designer + Technological tools, like programming and the use of electronics in projects. I would love to learn more about it in "Tech beyond myth"
+###### My new professional Identity, would be like an digital fabrication designer + Technological tools, like programming and the use of electronics in projects. I would love to learn more about it in "Tech beyond myth"
 
 ### 5) Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
 
@@ -94,7 +94,7 @@ My new professional Identity, would be like an digital fabrication designer + Te
 
 ### 6) Justify and describe your "draft" personal development plan for the master program.
 
-I had made a circular draft for the first term, because I think that the 1st term process is circular, not returning to zero, but to gain the experience of the courses and become a "new me" with all the new knowledge and experiences.
+###### I had made a circular draft for the first term, because I think that the 1st term process is circular, not returning to zero, but to gain the experience of the courses and become a "new me" with all the new knowledge and experiences.
 
 **Week 1**
 
@@ -206,5 +206,4 @@ I had made a circular draft for the first term, because I think that the 1st ter
 **Attitude:**Explore, discus, colaborative, debate approach, reflective, ideate.
 
 
-To continue exploring, is necessary to make things!!
-The task is to just make an experiment, as simple as posible, related to the subject.
+###### To continue exploring, is necessary to make things!! The task is to just make an experiment, as simple as posible, related to the subject.
