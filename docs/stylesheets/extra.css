@@ -7,7 +7,7 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'RobotoMono', Thin;
     --mdc-typography-font-family: 'RobotoMono', Thin;
-    --md-typeset-a-color: rgb(12, 240, 190);
+    --md-typeset-a-color: rgb(10, 10, 10);
 
 }
 
@@ -33,10 +33,10 @@
 }
 
 .md-typeset h2 {
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .mdc-typography--body2 {
-    font-weight: 300;
+    font-weight: 100;
     font-size: 14px;
 }

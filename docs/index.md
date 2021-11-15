@@ -1,6 +1,10 @@
-## Hi Im Joaquin Rosas! 
+####  Hi Im Joaquin Rosas! 
 
-This is my portfolio: www.joaquinrosas.com
+#### This is my portfolio: 
 
-this is My Design space: https://miro.com/app/board/o9J_lrJ1Z7M=/
+www.joaquinrosas.com 
+
+#### this is My Design space: 
+
+https://miro.com/app/board/o9J_lrJ1Z7M=/
 
