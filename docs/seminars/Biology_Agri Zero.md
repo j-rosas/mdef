@@ -98,7 +98,7 @@ This kind pf project are very nice inventions, but to make that proceses, they u
 
 My idea of gene mutation is inspired by human made water recolection systems, and some nature systems, like the Namib desert beetle, that use its legs to recollect or harvest water from the fog in the air.
 
-Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? 
+Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? s
 
 
 

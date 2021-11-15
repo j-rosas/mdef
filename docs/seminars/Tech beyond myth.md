@@ -65,6 +65,7 @@ https://hackmd.io/DoyUHU3PRxqc3-BeWHck3w?view
 Sense-Making Journal: Loneliness Among Young Adults in Barcelona
 
 ### Project Goals
+
 **Objective** 
 
 Make young people feel less lonely in Barcelona
@@ -137,11 +138,6 @@ The findings:
 
 #### Data collected
 
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://im2.ezgif.com/tmp/ezgif-2-a8061346e2ee.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nEAxQznj4skWwXYD4s">
-
-
-![](https://im2.ezgif.com/tmp/ezgif-2-a8061346e2ee.gif)
-
 We used a serial monitor at first to give us a visual representation of the light changes then used CSV to give us a numerical output which represents the same information in another fashion. The CSV is able to give us the tabular data to evaluate in further steps. 
 
 We gave each sensor its own line so that theoretically, if there were multiple phones, we could see which direction the light was coming from. We could identify micro changes based on the different curve points the light intensity from differing media apps which are based on how users usually interact with and navigate them.
@@ -213,7 +209,7 @@ An interesting activity that we did, was the reverse auction of tools, where eac
 
 5.Data analysing
 
-For me, this is the most interesting topic, because I realized that is possible to make all new ways of data recollecting, beyond cualitative or quantitative information, the simple exersice of imagining an opinion or an idea that maybe is not true, and make a challenge and an idea for
+For me, this is the most interesting topic, because I realized that is possible to make all new ways of data recolecting beyond cualitative or quantitative information. Imagine new ways of data recolection and analisis has been the most learning from this course.
 
 
 
