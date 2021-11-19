@@ -144,7 +144,9 @@ Massachusetts Institute of Technology, Cambridge, Massachusetts, USA*
 
 ###### *"Leatherback sea turtles are so successful at regulating their body temperature that they have the ability to maintain constant body temperature 18 degrees above or below the ambient temperature. That is so incredible that some researchers argue because this process is metabolically accomplished leatherback sea turtles are actually endothermic. However, this process is not anatomically conducted, therefore most researchers suggest this is a diminutive version of endothermy at best."*
 
-###### Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? s
+###### Would be possible to modificate humans genes, to give the biological cappacity to obtain and hydratate with the water from the environment? 
+
+###### Looking to igem.org tools and projects, I havent found anything like this kind pfo project, As we talked in class, CrispCas-9 should be a possible way to edit or modify human DNA, specifically the generation of cells that help us regulate our inner temperature system.
 
 
 
