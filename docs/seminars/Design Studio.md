@@ -89,9 +89,20 @@ Tomás Vivanco
 **3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIENT!!)**
 
 
+**Week 9**
 
 
+Documenting Tech beyond myth
 
+https://www.youtube.com/watch?v=jo5aZ7SwuDE
+
+The goal of the documentation was to record the teachers in their lectures, gathering the most interesting words and phrases, and manage to put them all in a certain order to make a beat from the better parts of the course.
+
+The second part was to gather one word from each classmate to get what they got from the course, from learnings to feelings.
+
+The hardwarte used was a OP-1 Sintetizer, a zoom recorder, iphone for audios.
+
+The software used was logic pro, illustrator, and imovie.
 
 
 
