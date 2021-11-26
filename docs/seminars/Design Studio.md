@@ -94,7 +94,7 @@ Tomás Vivanco
 
 Documenting Tech beyond myth
 
-https://www.youtube.com/watch?v=jo5aZ7SwuDE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jo5aZ7SwuDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The goal of the documentation was to record audios from the teachers in their lectures, gathering the most interesting words and phrases, and manage to put them all in a certain order to make a beat from the better parts of the course.
 
