@@ -92,19 +92,19 @@ Tomás Vivanco
 **Week 9**
 
 
-Documenting Tech beyond myth
+## Documenting Tech beyond myth
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jo5aZ7SwuDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The goal of the documentation was to record audios from the teachers in their lectures, gathering the most interesting words and phrases, and manage to put them all in a certain order to make a beat from the better parts of the course.
+###### The goal of the documentation was to record audios from the teachers in their lectures, gathering the most interesting words and phrases, and manage to put them all in a certain order to make a beat from the better parts of the course.
 
-The second part was to gather one word from each classmate to get what they got from the course, from learnings to feelings.
+###### The second part was to gather one word from each classmate to get what they got from the course, from learnings to feelings.
 
-The hardwarte used was a OP-1 Sintetizer, a zoom recorder, iphone for audios.
+###### The hardwarte used was a OP-1 Sintetizer, a zoom recorder, iphone for audios.
 
-The software used was logic pro, illustrator, and imovie.
+###### The software used was logic pro, illustrator, and imovie.
 
-A reflection that i had is that the mic recorder is a very complementary tool for lectures because if its used properly, it is very low sized in memory, and its very accesible and hearable, like a podcast or something similar. I have a good auditive memory, so this tool complements very well with the sketchbook where I write and draw all the time.
+###### A reflection that i had is that the mic recorder is a very complementary tool for lectures because if its used properly, it is very low sized in memory, and its very accesible and hearable, like a podcast or something similar. I have a good auditive memory, so this tool complements very well with the sketchbook where I write and draw all the time.
 
 
 
