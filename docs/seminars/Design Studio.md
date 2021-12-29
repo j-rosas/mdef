@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-##### Week 4
+##### Week 11
 
 # Design Studio
 
@@ -86,7 +86,7 @@ Tomás Vivanco
 
 ###### Then the final step is uploading everything to github webpage and miro design space. The good thing of git, is that anybody can enter and take anything from the webpage.
 
-**3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIENT!!)**
+**3 min Video aprox wich can include multiple ways of video journaling documenting the course tech beyond myth. (EXPERIMENT!!)**
 
 
 **Week 9**
