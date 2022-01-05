@@ -57,22 +57,28 @@ Would be possible to capture these shapes in a three dimensional space? to creat
 
 
 ![](../images/E5_01.JPG)
+
 *The setup*
 
 ![](../images/E5_02.JPG)
+
 *Frecuencie Result N°1*
 
 ![](../images/E5_03.JPG)
+
 *Frecuencie Result N°2*
 
 ![](../images/E5_04.JPG)
+
 *Frecuencie Result N°3*
 
 ![](../images/E5_05.JPG)
+
 *Frecuencie Result N°4*
 
 ![](../images/E5_06.JPG)
-*Using a video form youtube, of the same experiment, the interesting observation is that the result obtainedis different from the video.*
+
+*Using a video from youtube, of the same experiment, the interesting observation is that the result obtainedis different from the video.*
 
 Experiment 6:
 
