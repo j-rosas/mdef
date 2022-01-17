@@ -107,7 +107,15 @@ Tomás Vivanco
 ###### A reflection that i had is that the mic recorder is a very complementary tool for lectures because if its used properly, it is very low sized in memory, and its very accesible and hearable, like a podcast or something similar. I have a good auditive memory, so this tool complements very well with the sketchbook where I write and draw all the time.
 
 
+#### TERM 2
 
+Three learnings from the first term:
+
+1. The Magic machine. 
+
+2. 1PP Video
+
+3. Scale Diagram
 
 
 
