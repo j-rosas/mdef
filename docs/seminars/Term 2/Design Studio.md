@@ -56,7 +56,7 @@ This level of analizing projects or different subjects, leads to a sistemic way 
 
 Also with the content of the recent lecture, we can add another axis to the graph. I have realized that time cannot be lef apart because it is crucial to understand what has happened before, to speculate what is going to happen in the different scales in upcoming futures.
 
-![](../images/DS_20.png)
+![](/desktop/2021/carpeta_mdef/images/DS_20.png)
 
 
 
