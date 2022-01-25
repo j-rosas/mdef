@@ -60,17 +60,17 @@ Also with the content of the recent lecture, we can add another axis to the grap
 
 Reflection 1st term
 
-What
+#### What
 
 Investigation about how the intersection of fabrication, design, music and social impact, can lead to new projects in the emergent futures. Understanding the music as an energy that transform our physical world, and Design as a vehicle of  conscient and focused creation with specific people in a specific context.
 
-Why?
+#### Why?
 
 I find in music, a mysterious way to get things done. Some people use it for sports, some other for relax, and some other just to enjoy. In my case, I play electric guitar, experimenting and exploring sound. Also i come from a family of Musicians, My grandfather was an orchestra director back in Chile, and also a cultural gestor, funding the juvenile orchestra foundation for kids with low resources. thats where i saw that music can change peoples lives.
 The same kind of impact I noticed in design when I worked with young people with Epidermolysis Bullosa (Butterfly skin) developing products to improve their daily life. Noticing that involving in some others life, with simple, low tech and creative solutions,  can make a huge impact in their way of living.
 So in this investigation, im crossing two things that I love, Music and the physical world of design. 
 
-Now what
+#### Now what
 
 Now it’s time to summarize all the learnings and experiments that I have made in the first term and reflect about it.
 
@@ -81,11 +81,11 @@ At first im looking for musicians that are interested to collaborate with this i
 Designers, Sonar artist of materialist, are some other people that I would like to connect with, Because it would be a great opportunity to collaborate and enrich the process.
 
 
-Comparison with past actions
+#### Comparison with past actions
 
 In first term, I made 7 experiments that relate low tech, music, energy, frequencies, fractals and materials. It was an interesting straight forward process, where I open the relation of music and fabrication. All of the experiments were made by me, in my studio. So for the second term I will aim to involve more people to this process, to hear opinions, look for comments, and co create something. Understanding that the music and creating experience is more rich, when it is collaborative.
 
-what if questions
+#### what if questions
 
 -What if I connect with musicians and artist in a local intervention?
 
