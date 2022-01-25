@@ -58,6 +58,49 @@ Also with the content of the recent lecture, we can add another axis to the grap
 
 ![](../desktop/2021/carpeta_mdef/docs/images/DS_20.png)
 
+Reflection 1st term
+
+What
+
+Investigation about how the intersection of fabrication, design, music and social impact, can lead to new projects in the emergent futures. Understanding the music as an energy that transform our physical world, and Design as a vehicle of  conscient and focused creation with specific people in a specific context.
+
+Why?
+
+I find in music, a mysterious way to get things done. Some people use it for sports, some other for relax, and some other just to enjoy. In my case, I play electric guitar, experimenting and exploring sound. Also i come from a family of Musicians, My grandfather was an orchestra director back in Chile, and also a cultural gestor, funding the juvenile orchestra foundation for kids with low resources. thats where i saw that music can change peoples lives.
+The same kind of impact I noticed in design when I worked with young people with Epidermolysis Bullosa (Butterfly skin) developing products to improve their daily life. Noticing that involving in some others life, with simple, low tech and creative solutions,  can make a huge impact in their way of living.
+So in this investigation, im crossing two things that I love, Music and the physical world of design. 
+
+Now what
+
+Now it’s time to summarize all the learnings and experiments that I have made in the first term and reflect about it.
+
+It’s necessary to find and activate the community where the project can affect in a positive way or make a real impact.
+
+At first im looking for musicians that are interested to collaborate with this in an experimental way. Also looking for places, clubs, foundations, etc, that gather this kind of people, and are interested in non traditional ways of showing a music spectacle.
+
+Designers, Sonar artist of materialist, are some other people that I would like to connect with, Because it would be a great opportunity to collaborate and enrich the process.
+
+
+Comparison with past actions
+
+In first term, I made 7 experiments that relate low tech, music, energy, frequencies, fractals and materials. It was an interesting straight forward process, where I open the relation of music and fabrication. All of the experiments were made by me, in my studio. So for the second term I will aim to involve more people to this process, to hear opinions, look for comments, and co create something. Understanding that the music and creating experience is more rich, when it is collaborative.
+
+what if questions
+
+-What if I connect with musicians and artist in a local intervention?
+
+-what if I use a self made piece of music to fabricate something.
+
+-What if I look for this relation in urban spaces?
+
+-What if I connect people to create this things in a distributed way(Online)
+
+-What if I use AI or other systems to automatize the process of creation?
+
+-What if I make a public design intervention, using using to materialize something?
+
+-What If I work with people who don’t have nothing to do with music?
+
 
 
 

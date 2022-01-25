@@ -6,7 +6,7 @@ hide:
 ##### Week 15
 
 
-## COmmunication/Brand/purpose.
+## Communication/Brand/Purpose.
 
 
 **Teacher**
@@ -18,8 +18,6 @@ hide:
 Text
 
 #### Narrative
-
-https://medium.com/iam-journal/the-everything-manifesto-a-thought-experiment-for-the-next-billion-seconds-bcd9b9c938dc
 
 
 #### Tools:
