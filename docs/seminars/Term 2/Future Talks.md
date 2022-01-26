@@ -28,7 +28,20 @@ Tips for ethnography:
 
 *-Wear many hats*
 
-*-Make creative representation of data*
+*-Make creative representation of data,*
+
+*-Look for physical data*
+
+
+2. Laura Forlano
+
+She is a designer very interested in 1PP design research. She is diabetic, and that condition makes her consider herself as a kind of a cyborg, because she has to use a insulin sensor and pump when she is low on sugar.In her talk, She goes deep into her personal experiences and feelings, taking about her fears, and questioning her relation to this devices that sometimes is positives, but some times can be extreme negative as well.
+
+In the talk she shows how AI, algorythms, and machine learning can better a very specific world that is the diabetes, and how that new concepts can help to improve the technology, but at the same time, the people can hack it, or turn it onto anything else.
+
+A very interesting question from Laura is, what it means to be human? Because the limits of being human and live attached to a machine make that answer even more difficult, because you are living your life with a machine all your time.
+
+Another subjects that she taks about, are theories of post humanism, transhumanism, and that we must define ourself as humans.s
 
 
 
