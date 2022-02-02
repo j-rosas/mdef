@@ -32,7 +32,7 @@ Frecuencies vibration.
 
 This set of experiments, aim to know what happens when different material sources encounter frecuencies vibrations from a speaker.
 
-The firts one is a metal plate straight to the speaker filled up with water, when the volume of the speaker is raised , its possible to appreciate how the water reacts to the frecuencies. Should be possible to freeze this water mantaining the shape that is formed?
+The firts one is a metal plate straight to the speaker filled up with water, when the volume of the speaker is raised , its possible to  appreciate how the water reacts to the frecuencies. Should be possible to freeze this water mantaining the shape that is formed?
 
 
 ![](../images/E4_01.JPG)

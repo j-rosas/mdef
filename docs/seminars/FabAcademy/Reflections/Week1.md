@@ -3,9 +3,7 @@ hide:
     - toc
 ---
 
-#### Reflections
-
-Week 1:
+#### Week 1:
 
 The Class of Neil Gershenfeld introducing the FabAcademy course, has nearly to 300 participants in zoom, its very interesting that a systems like this work all arround the world for a long time.
 
