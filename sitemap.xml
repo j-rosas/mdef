@@ -16,7 +16,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/seminars/FabAcademy/Challenge1/</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/FabAcademy/Micro%20Challenges/</loc>
+         <lastmod>2022-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/FabAcademy/Reflections/</loc>
          <lastmod>2022-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
