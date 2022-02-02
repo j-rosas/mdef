@@ -7,14 +7,11 @@ Challenge 1
 
 Week 1
 
-Reflections
+Doc 1:
 
+Doc 2:
 
-
-
-
-
-
+Doc 3:
 
 
 
