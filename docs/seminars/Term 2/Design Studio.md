@@ -56,7 +56,7 @@ This level of analizing projects or different subjects, leads to a sistemic way 
 
 Also with the content of the recent lecture, we can add another axis to the graph. I have realized that time cannot be lef apart because it is crucial to understand what has happened before, to speculate what is going to happen in the different scales in upcoming futures.
 
-![](../desktop/2021/carpeta_mdef/docs/images/DS_20.png)
+![](../images/DS_20.png)
 
 Reflection 1st term
 
@@ -100,6 +100,24 @@ In first term, I made 7 experiments that relate low tech, music, energy, frequen
 -What if I make a public design intervention, using using to materialize something?
 
 -What If I work with people who don’t have nothing to do with music?
+
+
+
+##### Design Intervention 2.0
+
+"To enable people to create,record, and reproduce music easily, accesible, by creating a stand alone open source system without the need of a computer or any complex and expensive device."
+
+
+Communities:
+
+![](../images/DI2_01.png)
+
+
+State of the art:
+
+
+![](../images/DI2_02.png)
+
 
 
 
