@@ -17,7 +17,7 @@ hide:
 
 Through history, it has been used as a brand, mark, showing authority or quality, as a symbol of identity.
 
-#### Gloobal economies:
+#### Global economies:
 
 Make people buy or consume "life styles", or feelings, like happines, seriousness, etc. It´s Also a "Resume" of the meaning of the storytelling that we want to share
 
@@ -50,6 +50,11 @@ I have seen that statement becomign true, when I met the team of "take a hand", 
 
 Last summer I visited some family friends in the deep south of Chile, The place was called "paul and konomis garden". It was a almost 100% self suficient place, where Paul and Konomi lived, teach, and work with nature. At a first sight, the house looked very "poor" because they didn't had electricity, bathroom, or any materiality stuff.(Only their Cellphones.) But when I started realizing that they manage to live(very well) there, knowing the times of their crops, how to manage the field, and to make almost anything the needed, I realized that the knowledge that they had working with nature, is muh more valuable than material stuf that we have or we think we need.
 
+#### Brand Canvas.
+
+Its a very interesting exercise to start figuring out how our brand its gonna be.
+
+![](../images/B_01.jpg)
 
 
 

@@ -105,12 +105,18 @@ In first term, I made 7 experiments that relate low tech, music, energy, frequen
 
 ##### Design Intervention 2.0
 
-"To enable people to create,record, and reproduce music easily, accesible, by creating a stand alone open source system without the need of a computer or any complex and expensive device."
+The second version of the design intervention will be to enable people to create, record, and reproduce music easily, accesible, by creating a stand alone open source system without the need of a computer or any complex and expensive device or software.
 
 
-Communities:
+**Communities:**
 
 ![](../images/DI2_01.png)
+
+The community search is open wide to three main subjects, Music exploration, nature and tech projects, and audiovisual installations, where is a interaction between the musical work and people.
+
+Related to people, I have found that I have a lot of musical connection with people in Barcelona, Some profesional musicians, and people that I had work with, in musical instruments.
+
+Also I had added music spaces that will be able to collaborate to make a public intervention, near my house. In gracia, there is a place called, Soda acustic, where every thursday, they make an experimental music session, just before jams sessions.
 
 
 State of the art:
@@ -121,6 +127,25 @@ State of the art:
 
 
 
+Analyzing my music making devices.
+
+![](../images/DI2_04.JPG)
+
+I had made a quick tryout with one challenge, wich would be the easiest way to create/record music with more people. At first I had tried with an synth, the OP-1, that is a multitrack, self sufficient device for creating music.
+It enables to record, sample, and modify each track like the old 4 tape recorders.
+With the interaction of my classmates, I had noticed that is not that easy to encourage people to create music, if the instruments are made for one person use. Also that the process of playing with sound, sometimes can be even anoying if someone is working in a different thing, So maybe the classroom is not the best place to experiment with sound.
+
+
+
+![](../images/DI2_03.JPG)
+From left to right: 1.Boss Loop Station, 2. Zoom audio interface and recorder,3. Pocket operator rythm.
+
+This devices are the simplest devices that I have to make and record a musical piece, with the loop. its possible to create a track in a specific amount of time that repeats everytime, and it allows to record or erase another track, just pushing the lid. With the recorder its posible to obtain any sound from the environment, to people looks very appealing to record their voices and play with loops. Finally with the PO, its possible to create rythms by just pushing those buttons.
+
+This is a sample of a piece of music created with these three devices:
+
+
+The cons of useing this kind of devices is that they run on battery, the are pretty expensive, and no one is open source, they use a lot of non recyclable parts, and they are closed hardware, So there is an opportunity to develop this kind of musical devices and re-thinking them to be used in different contexts.
 
 
 
