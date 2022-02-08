@@ -71,7 +71,7 @@ Pine resin mix with Coffee
 
 Biomaterials samples cooked in the second sesion
 
-![](../images/ET_05-jpg)
+![](../images/ET_05.jpg)
 
 ![](../images/ET_06.jpg)
 

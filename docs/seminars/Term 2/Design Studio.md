@@ -105,6 +105,8 @@ In first term, I made 7 experiments that relate low tech, music, energy, frequen
 
 ##### Design Intervention 2.0
 
+OPEN JAM
+
 The second version of the design intervention will be to enable people to create, record, and reproduce music easily, accesible, by creating a stand alone open source system without the need of a computer or any complex and expensive device or software.
 
 
