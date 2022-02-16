@@ -29,6 +29,7 @@ For this assignment, I challenge myself to use Grasshopper to design the object,
 
 ![](../images/MC3_4.png)
 
+![](../images/MC3_5.gif)
 
 
 
