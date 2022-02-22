@@ -150,9 +150,55 @@ This is a sample of a piece of music created with these three devices:
 The cons of useing this kind of devices is that they run on battery, the are pretty expensive, and no one is open source, they use a lot of non recyclable parts, and they are closed hardware, So there is an opportunity to develop this kind of musical devices and re-thinking them to be used in different contexts.
 
 
+**Opening Communities.**
+
+I went to find a music space that is open to artist, so I found "Nocturna Discordia" in soda acoustic, a music bar in my neighborhood, Gracia.
+
+Nocturna Discordia is an instance where experimental Music is welcome, they had opened that space since 2012, So its almost 10 years where there has been experimental music, artists, and creators.
+
+I went to a concert to experience what nocturna discordia was about, And for my surprise, was actually very interesting and nice. They were a group of musicians that were improvising and they didn’t new between each other before, so the result was also very interesting. because was fully improvisational.
+
+(foto musicos en nocturna discordia)
+
+After the concert I talked to the vocalist, she was very nice and friendly, I told her was I was doing and she told me about new places like hangar.org or la escosesa, in Poble nou. 
+
+Th other guy that I talked, was Andrés, he is the organizer of the event, and he was very interested and open to see what we were able to do there. I talked him about the plant b project, and we agreed that I have to send him some material, and set a date to play there.
+For next steps I will go to hangar and la escosesa so see what we can do, or collaborate.
+
+**Making a Looper machine with Chris**
+
+We manage to build a DIY collaborative looper stations called OPENJAM BOX, using raspberry Pi and youtube tutorials to make it work.
+
+Our goal was to build some musical project that would be easy to build and program, and we manage to find the tutorial for a multitrack looper. and we transformit into a looper that enable more people to create music together, so the initial design is meant to be used by four people, where they can record and play a track.
+
+All info related to the looper is in 
+
+https://github.com/chris-ernst/fablab-challenge-1
+
+**Design intervention Planing**
+
+Continuing to exploring my question about how music can change physical realities.
+
+So the intervention consist to make an instance were people will modify clay figures related to the music that they are listening.
+
+So this are the planned steps related to the intervention.
+
+1.- Bring the clay and guitar(my instrument) to the class
+
+2.- I will invite the classmates to sit in front of three or four clay balls, and I will guide them through to tell them that the can modify the pieces while listening to music, so each figure will represent a moment.
+
+Also I will ask them to be "blind" to make the sense of listening better.
+
+3.- It should be some classmate that would help me to record this intervention.
+
+4.-I will record each track to use it later with the fogures.
+
+5.-The results will be documented in pictures with collab and 3d scanning and printing.
+
+6.- The final result will be a collaborative and meaningfull series of objects.
 
 
-
+This process will be fully of improvistation, so I dont want to practice what I will play, or to tell them what to do, will be free.
 
 
 
