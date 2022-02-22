@@ -134,6 +134,9 @@ Its interesting to see that just "relocating" the waste to the same purpose can 
 ![](../images/ET_11.jpeg)
 *Agar agar sample hanging in the tree*
 
+More info of the project of Bread Crumbs can be founded here:
+
+https://docs.google.com/presentation/d/1bfWTQE6fajpcnCwdZSG8ggF9suYxF7SznpOskbxr8sU/edit?usp=sharing
 
 
 **analizing properties and future aplications.**
