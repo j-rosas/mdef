@@ -31,6 +31,18 @@ For this assignment, I challenge myself to use Grasshopper to design the object,
 
 ![](../images/MC3_5.gif)
 
+![](../images/WT_01.JPG)
+![](../images/WT_02.JPG)
+![](../images/WT_03.JPG)
+![](../images/WT_04.JPG)
+![](../images/WT_05.JPG)
+![](../images/WT_06.JPG)
+![](../images/WT_07.JPG)
+![](../images/WT_08.JPG)
+![](../images/WT_09.JPG)
+![](../images/WT_10.JPG)
+![](../images/WT_11.JPG)
+
 
 
 
