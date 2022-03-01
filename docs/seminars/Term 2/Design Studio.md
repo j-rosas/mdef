@@ -197,8 +197,47 @@ Also I will ask them to be "blind" to make the sense of listening better.
 
 6.- The final result will be a collaborative and meaningfull series of objects.
 
+**Intervention 3.0**
 
-This process will be fully of improvistation, so I dont want to practice what I will play, or to tell them what to do, will be free.
+-Preparing the setup
+
+For the setup, I used the MDEF room, that has space for playing and 10 people aprox, to sit and gather arround. Thanks to Manuela and the team of communication, as they needed to document Iaac projects, they offered to make a nice setup to be recorded way more professionally than I expected, the good thing appart of the result of the audiovisual material, is that it opens a window for MDEF students to document their project in a nice and profesional way.
+
+-Playing Music
+
+For playing the music I used my electric guitar, as my main instrument, followed by a set of guitar pedals that able the guitar to shape its sound with different effects, like reverb, pitch, freeze, overdrive, a looper, etc. All the Audio goes through a recorder to have the audio in good quality, and then to a guitar amp that can fit the room, to have a good musical experience. The sound was tested first to have good settings for the ocasion.
+
+Music Parameters.
+
+As I was aiming to make people mold figures out of clay, I knew that the result will be arround 35-40 figures, and that result should be comparable and analyzable, so I added four simple parameters(Pitch, Duration, Timbre change, Loudness) for the music to "conceptualize" and compare the result later with these previous concept. So each track is in a way guided by these four parameter.
+
+Track 1/ Pitch
+
+https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+Track 2/ Duration
+
+https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+Track 3/ Timbre change
+
+https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+Track 4/ Loudness
+
+https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+-Modeling
+
+-Coments and observations.
+
+-Analisis of the shapes
+
+-Results
+
+-Playtronica+Clay
+
+-Whats next.
 
 
 
