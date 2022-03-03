@@ -172,7 +172,7 @@ All info related to the looper is in
 
 https://github.com/chris-ernst/fablab-challenge-1
 
-#### Intervention 3.0
+### Intervention 3.0
 
 **Planing**
 
@@ -198,7 +198,7 @@ Also I will ask them to be "blind" to make the sense of listening better.
 
 **Why Clay**
 
-![](../images/DI3_02.png)
+![](../images/DI3_02.PNG)
 
 Clay is a natural and noble material, it has amazing properties and its very easy to work, also this kind of clay, dries in almost one day, so for working by hand and keeping its shape is a very usefull material.
 
@@ -282,19 +282,19 @@ Classmate 2
 
 ![](../images/DI3_10.JPG)
 
-Track 1
+Track 1/ Pitch
 
 ![](../images/DI3_11.png)
 
-Track 2
+Track 2/ Duration
 
 ![](../images/DI3_12.png)
 
-Track 3
+Track 3/ Timbre change
 
 ![](../images/DI3_13.png)
 
-Track 4
+Track 4/ Loudness
 
 ![](../images/DI3_14.png)
 
@@ -349,9 +349,15 @@ The interesting thing of the clay result, is that it is possible to make an inst
 
 ![](../images/DI3_15.JPG)
 
+*As the clay was dried, at first it was not conductive.*
+
 ![](../images/DI3_16.JPG)
 
+*A shot of water would do the job of making the clay wet again:*
+
 ![](../images/DI3_17.jpg)
+
+*With the track 1, was possible to play different sections of the track using ableton live and playtronica.*
 
 ![](../images/DI3_18.jpg)
 
