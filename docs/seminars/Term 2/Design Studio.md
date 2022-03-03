@@ -271,6 +271,7 @@ Classmate 2
 **Results**
 
 <iframe src="https://player.vimeo.com/video/684227090?h=d5e365475a" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+ Set of figures, related to its sound.
 
 ![](../images/DI3_06.png)
 
