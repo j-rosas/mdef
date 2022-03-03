@@ -198,9 +198,9 @@ Also I will ask them to be "blind" to make the sense of listening better.
 
 **Why Clay**
 
-![](../images/DI3_02.PNG)
+![](../images/DI3_20.PNG)
 
-Clay is a natural and noble material, it has amazing properties and its very easy to work, also this kind of clay, dries in almost one day, so for working by hand and keeping its shape is a very usefull material.
+Clay is a natural and noble material, it has amazing properties and its very easy to work, also this kind of clay, dries in almost one day, so for working by hand and keeping its shape is a very usefull material for this exercise.
 
 
 
@@ -231,19 +231,17 @@ Track 1/ Pitch
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224512260&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730" title="Joaquin Rosas" target="_blank" style="color: #cccccc; text-decoration: none;">Joaquin Rosas</a> · <a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-1" title="Pista 1" target="_blank" style="color: #cccccc; text-decoration: none;">Pista 1</a></div>
 
 
-
-
 Track 2/ Duration
 
-https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224512908&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730" title="Joaquin Rosas" target="_blank" style="color: #cccccc; text-decoration: none;">Joaquin Rosas</a> · <a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-2" title="Pista 2" target="_blank" style="color: #cccccc; text-decoration: none;">Pista 2</a></div>
 
 Track 3/ Timbre change
 
-https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224513712&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730" title="Joaquin Rosas" target="_blank" style="color: #cccccc; text-decoration: none;">Joaquin Rosas</a> · <a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-3" title="Pista 3" target="_blank" style="color: #cccccc; text-decoration: none;">Pista 3</a></div>
 
 Track 4/ Loudness
 
-https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224514093&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730" title="Joaquin Rosas" target="_blank" style="color: #cccccc; text-decoration: none;">Joaquin Rosas</a> · <a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4" title="Pista 4" target="_blank" style="color: #cccccc; text-decoration: none;">Pista 4</a></div>
 
 **Modeling**
 
@@ -251,7 +249,7 @@ https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4?utm_source=clipb
 
 As I started playing the music, my classmates started with their eyes closed, using clay with hands, I think I didnt tell that they could be able to use others parts from their bodies, but for the fist iteration its super interesting about how the initial format, standarise the final result. Also is very interesting that some results are almost the same, I didn´t realize if they were looking each other, but its very interesting to see some similar results from different persons and melodies.
 
-**Coments and observations.**
+**Comments and observations.**
 
 Classmate 1:
 
@@ -373,7 +371,7 @@ One interesting concept is to make the process of creating music and fabrication
 
 -Created track using clay pieces.
 
-https://soundcloud.com/joaquin-rosas-sotomayor-14875730/grabacion-usando-arcilla?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224552016&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730" title="Joaquin Rosas" target="_blank" style="color: #cccccc; text-decoration: none;">Joaquin Rosas</a> · <a href="https://soundcloud.com/joaquin-rosas-sotomayor-14875730/grabacion-usando-arcilla" title="Grabacion Usando Arcilla" target="_blank" style="color: #cccccc; text-decoration: none;">Grabacion Usando Arcilla</a></div>
 
 **Conclusions and whats next.**
 
