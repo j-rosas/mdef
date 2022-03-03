@@ -126,9 +126,6 @@ State of the art:
 
 ![](../images/DI2_02.png)
 
-
-
-
 Analyzing my music making devices.
 
 ![](../images/DI2_04.JPG)
@@ -199,12 +196,29 @@ Also I will ask them to be "blind" to make the sense of listening better.
 
 6.- The final result will be a collaborative and meaningfull series of objects.
 
+**Why Clay**
+
+![](../images/DI3_02.png)
+
+Clay is a natural and noble material, it has amazing properties and its very easy to work, also this kind of clay, dries in almost one day, so for working by hand and keeping its shape is a very usefull material.
+
+
 
 **Preparing the setup**
 
-For the setup, I used the MDEF room, that has space for playing and 10 people aprox, to sit and gather arround. Thanks to Manuela and the team of communication, as they needed to document Iaac projects, they offered to make a nice setup to be recorded way more professionally than I expected, the good thing appart of the result of the audiovisual material, is that it opens a window for MDEF students to document their project in a nice and profesional way.
+![](../images/DI3_01.JPG)
+
+For the setup, I used the MDEF room, that has space for playing and 10 people aprox, to sit and gather arround. Thanks to Manu and Lina, the team of communication, as they needed to document Iaac projects, they offered to make a nice setup to be recorded way more professionally than I expected, the good thing appart of the result of the audiovisual material, is that it opens a window for MDEF students to document their project in a nice and profesional way.
+
+![](../images/DI3_03.JPG)
+
+The material that they will use are these four squares of clay, marked by a 1, 2, 3, 4 dots. each one is for each track so it will be easy to diferinciate and group it later.
+
+
 
 **Playing Music**
+
+![](../images/DI3_04.png)
 
 For playing the music I used my electric guitar, as my main instrument, followed by a set of guitar pedals that able the guitar to shape its sound with different effects, like reverb, pitch, freeze, overdrive, a looper, etc. All the Audio goes through a recorder to have the audio in good quality, and then to a guitar amp that can fit the room, to have a good musical experience. The sound was tested first to have good settings for the ocasion.
 
@@ -230,6 +244,8 @@ https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4?utm_source=clipb
 
 **Modeling**
 
+![](../images/DI3_05.PNG)
+
 As I started playing the music, my classmates started with their eyes closed, using clay with hands, I think I didnt tell that they could be able to use others parts from their bodies, but for the fist iteration its super interesting about how the initial format, standarise the final result. Also is very interesting that some results are almost the same, I didn´t realize if they were looking each other, but its very interesting to see some similar results from different persons and melodies.
 
 **Coments and observations.**
@@ -252,6 +268,13 @@ Classmate 2
 - **the shape of the clay pieces you started** with determine the initial way we interact with it. Whst if you started with balls not flat squares?
 - **The experience was powerful with my eyes closed** but also at some point I became self conscious because I was aware of the cameras around me. 
 
+**Results**
+
+![](../images/DI3_06.png)
+
+Relations between shapes.
+
+
 **Analisis of the clay figures**
 
 *Shape:* The shape in the four tracks look very different from each other, there are some determined by bassically shapes( cubes, long strips, balls, spheres, cones, etc.) Also there are some random shapes, or figurative like the monster.
@@ -267,9 +290,6 @@ The fourth track(loudness) has some very interesting results, because one were t
 *Actions:*
 
 Press, Roll, Compress, tubing, breaking, joining, graining, laminating, hit, round, poke, flat, fit, expand, divide, pull, wait. breathe.
-
-**Results**
-
 
 
 **Playtronica+Clay**
