@@ -110,9 +110,13 @@ Also changing the dust powder with a more thin one.
 <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/658562950?h=a20b734215&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20211217_201432.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-Intervention/Experimentation 2.0
+**Pure Data exploration**
 
-Pure Data exploration
+Im exploring in the world of music, open source, and digital fabrication. I found an open source sorftware called Pure Data, that allows people to create music with their computers, and also programm it to make interactions with electronics, im looking forward to learn more about it because its a very interesting way to create music in a simple way.
+
+
+
+
 
 
 

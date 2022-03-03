@@ -175,15 +175,17 @@ All info related to the looper is in
 
 https://github.com/chris-ernst/fablab-challenge-1
 
-**Design intervention Planing**
+#### Intervention 3.0
 
-Continuing to exploring my question about how music can change physical realities.
+**Planing**
 
-So the intervention consist to make an instance were people will modify clay figures related to the music that they are listening.
+Continuing to exploring my question about the relationship with music and physical realities.
+
+The intervention consist to make an instance were people will modify clay figures related to the music that they are listening.
 
 So this are the planned steps related to the intervention.
 
-1.- Bring the clay and guitar(my instrument) to the class
+1.- Bring the clay and guitar(my instrument) to the class.
 
 2.- I will invite the classmates to sit in front of three or four clay balls, and I will guide them through to tell them that the can modify the pieces while listening to music, so each figure will represent a moment.
 
@@ -197,17 +199,16 @@ Also I will ask them to be "blind" to make the sense of listening better.
 
 6.- The final result will be a collaborative and meaningfull series of objects.
 
-**Intervention 3.0**
 
--Preparing the setup
+**Preparing the setup**
 
 For the setup, I used the MDEF room, that has space for playing and 10 people aprox, to sit and gather arround. Thanks to Manuela and the team of communication, as they needed to document Iaac projects, they offered to make a nice setup to be recorded way more professionally than I expected, the good thing appart of the result of the audiovisual material, is that it opens a window for MDEF students to document their project in a nice and profesional way.
 
--Playing Music
+**Playing Music**
 
 For playing the music I used my electric guitar, as my main instrument, followed by a set of guitar pedals that able the guitar to shape its sound with different effects, like reverb, pitch, freeze, overdrive, a looper, etc. All the Audio goes through a recorder to have the audio in good quality, and then to a guitar amp that can fit the room, to have a good musical experience. The sound was tested first to have good settings for the ocasion.
 
-Music Parameters.
+**Music Parameters.**
 
 As I was aiming to make people mold figures out of clay, I knew that the result will be arround 35-40 figures, and that result should be comparable and analyzable, so I added four simple parameters(Pitch, Duration, Timbre change, Loudness) for the music to "conceptualize" and compare the result later with these previous concept. So each track is in a way guided by these four parameter.
 
@@ -227,17 +228,77 @@ Track 4/ Loudness
 
 https://soundcloud.com/joaquin-rosas-sotomayor-14875730/pista-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
--Modeling
+**Modeling**
 
--Coments and observations.
+As I started playing the music, my classmates started with their eyes closed, using clay with hands, I think I didnt tell that they could be able to use others parts from their bodies, but for the fist iteration its super interesting about how the initial format, standarise the final result. Also is very interesting that some results are almost the same, I didn´t realize if they were looking each other, but its very interesting to see some similar results from different persons and melodies.
 
--Analisis of the shapes
+**Coments and observations.**
 
--Results
+Classmate 1:
 
--Playtronica+Clay
+I felt like the **music was shaping the way I moved and flowed through the clay**. At times being a bit more shy and just touching with my fingertips and suddenly embracing all the clay with a more intense rythm. 
 
--Whats next.
+With the second melody I felt like the more prominent sounds were creating spontaneous mutations in my clay sculpture and playing a bit more with pitches. 
+
+For the 3rd one I was a bit more **anxious** because of the music and the clay helped me release that tension and absorb it. I expressed it with the form of texture making. Pinching it more and squishing it hard. 
+
+For the 4th one I felt like a continuous shape was emerging and continuously changing as well. I found **my fingers were following the beat** as they went through the surface of the clay. In this way modeling a very rough and textured piece.
+
+Classmate 2
+
+- variations in each soundscape were great. I enjoyed not knowing what would come next.
+- it would be interesting to change the seating configurations of participants and performer/sound. Like what if we were sitting in a circle around the sound, with the plants, etc.
+- also at some point I wanted to move my body but didn’t have the space to.
+- **the shape of the clay pieces you started** with determine the initial way we interact with it. Whst if you started with balls not flat squares?
+- **The experience was powerful with my eyes closed** but also at some point I became self conscious because I was aware of the cameras around me. 
+
+**Analisis of the clay figures**
+
+*Shape:* The shape in the four tracks look very different from each other, there are some determined by bassically shapes( cubes, long strips, balls, spheres, cones, etc.) Also there are some random shapes, or figurative like the monster.
+
+The first group in average are almost one single shape or a solid geometry, maybe because the first track is more melodyc and harmonius, than the rest, and that can be related to geometric or simple shapes.
+
+The second row of clay objects looks more expansive,as I was playing with the pitch,  sowing some defragmentations, and also main shapes.
+
+The third track was about timbre, si that was the most "bizzare" and sometimes akward or uncomfortable for some people, so is very possible to see in the clay figures some actions, like squeezing the object on the surface, showing that the participants were using much more strenght to create that kind of shapes, related to the other tracks.
+
+The fourth track(loudness) has some very interesting results, because one were the same for different people.
+
+*Actions:*
+
+Press, Roll, Compress, tubing, breaking, joining, graining, laminating, hit, round, poke, flat, fit, expand, divide, pull, wait. breathe.
+
+**Results**
+
+
+
+**Playtronica+Clay**
+
+The interesting thing of the clay result, is that it is possible to make an instrument from it. Using the playtronica board, its possible to make music using conductive objects, to make dry clay conductive again, it was necessary to wet the piece a bit, ass the times passes by, the clay will dry again and will continue its conductivity in arround three hours.
+
+**Infinite loop**
+
+One interesting concept is to make the process of creating music and fabrication, almost in a loop.  because its starts from the guitar, then to the clay, and the clay becomes the instrument again, so in a way, the process becomes evolving and infinite.
+
+-Created track using clay pieces.
+
+https://soundcloud.com/joaquin-rosas-sotomayor-14875730/grabacion-usando-arcilla?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+**Conclusions and whats next.**
+
+-Wide possibilities
+
+Exploring with music and materiality, or fabrication, is very interesting and can be almost infinite, so its neccesary to focus the investigation with some context, to dont loose the focus and to drive into more complex project, not only experiments.
+
+-Colaborating with classmates
+
+As these experiments or activities need a bunch of people and infrastructure, that enable people that can interact, the Fablab of mdef room is a good laboratory to explore these kind of things.
+
+-Importance of "open planning" and documenting.
+
+Thanks to the planning of the intervention, everything worked pretty well, and the good thing is that was almost impossible to predict the results, but having the concept or the idea planed, make things much easier, to keep going through the project.
+
+
 
 
 
