@@ -270,9 +270,60 @@ Classmate 2
 
 **Results**
 
+<iframe src="https://player.vimeo.com/video/684227090?h=d5e365475a" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ![](../images/DI3_06.png)
 
-Relations between shapes.
+![](../images/DI3_07.JPG)
+
+![](../images/DI3_08.JPG)
+
+![](../images/DI3_09.JPG)
+
+![](../images/DI3_10.JPG)
+
+Track 1
+
+![](../images/DI3_11.png)
+
+Track 2
+
+![](../images/DI3_12.png)
+
+Track 3
+
+![](../images/DI3_13.png)
+
+Track 4
+
+![](../images/DI3_14.png)
+
+Relations founded between shapes.
+
+Tubing
+
+![](../images/tubing.jpg)
+
+Spheres
+
+![](../images/spheres.jpg)
+
+Typo
+
+![](../images/typo.JPG)
+
+Sheets
+
+![](../images/sheets.jpg)
+
+parametric
+
+![](../images/parametric.jpg)
+
+![](../images/parametric2.jpg)
+
+![](../images/parametric3.jpg)
+
 
 
 **Analisis of the clay figures**
@@ -295,6 +346,16 @@ Press, Roll, Compress, tubing, breaking, joining, graining, laminating, hit, rou
 **Playtronica+Clay**
 
 The interesting thing of the clay result, is that it is possible to make an instrument from it. Using the playtronica board, its possible to make music using conductive objects, to make dry clay conductive again, it was necessary to wet the piece a bit, ass the times passes by, the clay will dry again and will continue its conductivity in arround three hours.
+
+![](../images/DI3_15.JPG)
+
+![](../images/DI3_16.JPG)
+
+![](../images/DI3_17.jpg)
+
+![](../images/DI3_18.jpg)
+
+![](../images/DI3_19.jpg)
 
 **Infinite loop**
 
