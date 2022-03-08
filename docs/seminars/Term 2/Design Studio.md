@@ -384,6 +384,12 @@ One interesting concept is to make the process of creating music and fabrication
 
 **Conclusions and whats next.**
 
+-Closing the loop.
+To create something tha3t can turn into somethign else, is very interesting, because its a circular process that in a way emulates the process of nature, that can be repeated or reproduced many times, and also makes it a living system.
+
+-Sensorial and meditation experience.
+For some participants, this intervention was an experience, a moment to forget everything, or just a moment to use hands and interact with clay, I didnt predict that kind of things would happen this time, so is interesting to observe that the things that we do have unexpected consequences. 
+
 -Wide possibilities
 
 Exploring with music and materiality, or fabrication, is very interesting and can be almost infinite, so its neccesary to focus the investigation with some context, to dont loose the focus and to drive into more complex project, not only experiments.
@@ -395,6 +401,9 @@ As these experiments or activities need a bunch of people and infrastructure, th
 -Importance of "open planning" and documenting.
 
 Thanks to the planning of the intervention, everything worked pretty well, and the good thing is that was almost impossible to predict the results, but having the concept or the idea planed, make things much easier, to keep going through the project.
+
+Real Time.
+The clay at it get stiff, has a certain period of time to be modified or to interact with, and as im interested in the relationshipo beetween material and music, would be very interesting to explore how this interaction can be happening in real time.
 
 
 
