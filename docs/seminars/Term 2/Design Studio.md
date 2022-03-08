@@ -176,7 +176,7 @@ https://github.com/chris-ernst/fablab-challenge-1
 
 
 
-### Intervention 3.0
+### Intervention Pilot
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/685879276?h=7543a17592&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Design Intervention 3.0.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -187,9 +187,9 @@ https://youtu.be/v7L5VUTHf0o
 
 Continuing to exploring my question about the relationship with music and physical realities.
 
-The intervention consist to make an instance were people will modify clay figures related to the music that they are listening.
+This pilot consist to make an instance were people will modify clay figures related to the music that they are listening.
 
-So this are the planned steps related to the intervention.
+So this are the planned steps related to the activity.
 
 1.- Bring the clay and guitar(my instrument) to the class.
 
