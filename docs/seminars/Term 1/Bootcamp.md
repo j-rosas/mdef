@@ -24,7 +24,9 @@ Activities:
 
 Poster:
 
-![](../images/poster2.JPG) ![](../images/poster3.JPG)
+![](../images/poster2.JPG) 
+
+![](../images/poster3.JPG)
 
 
 

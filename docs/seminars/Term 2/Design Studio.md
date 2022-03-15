@@ -406,8 +406,56 @@ Real Time.
 The clay at it get stiff, has a certain period of time to be modified or to interact with, and as im interested in the relationshipo beetween material and music, would be very interesting to explore how this interaction can be happening in real time.
 
 
+Design Dialogues prep
+
+1. WHAT. Make a clear list of what you will show at Design Dialogues - personal project, group interventions, fab challenge outputs.
+
+For design dialogues, I will present all the exploration that I havee been doing relating music and fabrication.
+
+1)Physical: the clay shapes  builted by classmates 
+the playtronica board connected to the clay pieces, to enable people to play with that.
+
+Arduino with pure data to be usable
+
+3) Kinect with interaction with grasshopper and the body
+
+2)Audiovisual.
+Videos of different process
+
+3)Colab, loop station with Chris.
+
+4)FabChallenge:
 
 
+
+2. WHAT2. Prepare a clear and simple statement on your presentation at DD, what is your purpose, vision and mission. We will use this to co-curate the projects, so ensure that it reflects your project from a communications perspective.
+
+Purpose:
+
+Vision:
+
+Mision:
+
+
+3. WHY Make a clear list of your aims for the DD session. Remember, DD is an extension of your project work and serves your exploration. What do you want to gain insights, feedback on, or perhaps test at the DD?
+
+The main objective of the design dialogues presentation is to demonstrate the relationship beetween sound, music and the physical world, and start a conversation around it. In this case, the feedback is very important because, it will shape the course of the project to a context and more specific subject. 
+
+4. WHO Clearly and concisely identify your target stakeholder/s for DD. A design intervention is a design action done in context and in collaboration with outside people, communities, companies or institutions. Your DD experience must expand on this to explore possibilities, prototype with experts, co-design, create participative activities, gather feedback, insights etc. You must clearly identify and engage necessary stakeholders.
+
+Music profesionals, plastic artist, designers from fablab, architects.
+
+I will invite people from hangar, and some other experimental sound places, or musicians from barcelona.
+
+The idea is to have a realtime instalation that enables people to create something at the same time that music is created.
+
+
+5. HOW Draft of how you plan to achieve the above for your personal and/or group showings. What mechanisms, artifacts or short processes have you imagined to support you in achieving the aims you have? EG. Do you imagine showing videos, a small exhibition or performance? Have you thought of producing a survey, in-person feedback or inviting members of your community to be present?
+
+
+It would be great to have an interactive instalation where people can walk and blend with the installation, without any explanation. and then it should be great to recieve feedback from them.
+
+Also the loop station made with Chris is a collaborative instrument, that enables people to create their own beats, so in a way, that object is allready an interactive piece that can be shown and used by the users of the intervention.
 
 
 
