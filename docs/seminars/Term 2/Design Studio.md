@@ -406,7 +406,7 @@ Real Time.
 The clay at it get stiff, has a certain period of time to be modified or to interact with, and as im interested in the relationshipo beetween material and music, would be very interesting to explore how this interaction can be happening in real time.
 
 
-Design Dialogues prep
+**Design Dialogues preparation**
 
 1. WHAT. Make a clear list of what you will show at Design Dialogues - personal project, group interventions, fab challenge outputs.
 
@@ -432,10 +432,15 @@ Videos of different process
 
 Purpose:
 
-Vision:
+To exhibit and experience the process of my exploration through the subject "Music, fabrication and the physical world."
+
+Vision(simplificar)
+
+the creative community he circular phenomenom of objects created by listening to music, and how this objects can turn into musical instruments again to play the music that they were created by.
 
 Mision:
 
+make creative tools, machines,and different technologies to enable the community that will be interacting in this exploration about the intersection of music and physical realites.
 
 3. WHY Make a clear list of your aims for the DD session. Remember, DD is an extension of your project work and serves your exploration. What do you want to gain insights, feedback on, or perhaps test at the DD?
 
