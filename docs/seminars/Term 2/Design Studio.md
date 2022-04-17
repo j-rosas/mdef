@@ -120,6 +120,21 @@ Related to people, I have found that I have a lot of musical connection with peo
 
 Also I had added music spaces that will be able to collaborate to make a public intervention, near my house. In gracia, there is a place called, Soda acustic, where every thursday, they make an experimental music session, just before jams sessions.
 
+**Visit to hangar**
+
+![](../images/HN1.PNG)
+
+Hangar is a place where Art, Design, and exploration meets to host people interested in those subjects that are in the need of a physical space to make their creations, such as paintings, art installations, sculptures, music projects, etc.  It’s an interesting place to open the community, related to design/music projects.
+
+We went with Julia to visit Hangar installations near Poble Nou. Guillem told us that there were some open Thursdays, where José Miguel, the person in charge of the electronics lab make us a guided tour through the facilities, showing us the space and telling how it works.
+
+There are a lot of artist there, and also they have payed programs for residencies that can last month or years, and can be individual or by group.
+The interesting thing is that the participation in hangar is quite relaxed, they don’t have to show or make any retributions to the place, just pay the membership and thats it. From my experience on managing projects and teams, I think that it would be a nice idea to make that groups interact or show their process to the community. But still is a very nice place to collaborate or explore.
+
+![](../images/HN2.PNG)
+
+In Hangar I found TOPLAP, a studio, collective, that shares the process os live coding and turns into live music algorithm changing to make performances, interventions, etc. Its pretty interesting how they move a community mixing programing and electronic music, opening a new way  for creators, similar thing that I want to do with fabrication world and music.
+
 
 State of the art:
 
@@ -167,6 +182,14 @@ For next steps I will go to hangar and la escosesa so see what we can do, or col
 We manage to build a DIY collaborative looper stations called OPENJAM BOX, using raspberry Pi and youtube tutorials to make it work.
 
 Our goal was to build some musical project that would be easy to build and program, and we manage to find the tutorial for a multitrack looper. and we transformit into a looper that enable more people to create music together, so the initial design is meant to be used by four people, where they can record and play a track.
+
+![](../images/LOOP2.JPG)
+
+![](../images/LOOP4.JPG)
+
+![](../images/LOOP3.JPG)
+
+![](../images/LOOP1.JPG)
 
 All info related to the looper is in 
 
@@ -463,6 +486,14 @@ It would be great to have an interactive instalation where people can walk and b
 Also the loop station made with Chris is a collaborative instrument, that enables people to create their own beats, so in a way, that object is allready an interactive piece that can be shown and used by the users of the intervention.
 
 
+**Design Dialogues Intervention/ Performance.**
 
+From the first intervention, the main change that I wanted to do, is to go bigger from the use of the hands, to the whole body. One of the comments from Daphni, was that dace, is a activity guided by music, that uses the whole body to express itself, so its very interesting to use the whole body to trigger something, or to create something else.
+
+For that I make some cooper pads and playtronica to spread it in the floor, to create a surface that can be used with the feets. It was very interesting to discover how the context acts as an actor to drive the meaning of the instrument, At first I tried to use the pads in the MDEF class, using them mainly to try the functionality, But when i took the pads home to mix it with guitar, It suddenly transformed into a drumset or a keyboard for the feet. expanding guitarist capabilities, with only one electronic board, some wires, and some software.
+
+![](../images/TDD1.JPG)
+![](../images/TDD2.JPG)
+![](../images/TDD3.JPG)
 
 
