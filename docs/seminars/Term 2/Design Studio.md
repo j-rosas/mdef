@@ -496,4 +496,57 @@ For that I make some cooper pads and playtronica to spread it in the floor, to c
 ![](../images/TDD2.JPG)
 ![](../images/TDD3.JPG)
 
+Finally, I manage to order the pads into a circular shape, enabling more movement and freedom of the body, to interact with electronics to trigger music, The next step is to enable the whole body to move seeking for music, so the ideal is to have triggers in the top to use hands, arms and the head, to look for whole body expression.
+
+I managed to look for some metal balls, to have more conduciveness and make a better experience for the dancer. In this case I found steel knobs for drawers, that worked perfectly with the touch of the hands and arm. the spheres will hang straight from the cables, that will be connected to the playtronica board. 
+
+For the feet, I will use steel wire, attached to the floor. is a simple solution to have conductivity on the floor.
+
+To have the spheres hanging its necessary to build a structure to hold it, so I use the weekly task for the CNC machine, to design and cut a circular structure that can be hanged from IaaC ceiling, and is can hold the spheres, and the speaker that will be projecting sound in the intervention.
+
+I made a test on the circuit concetion using the wire on the feet, and hanging balls, its interesting to see that the balls as they are hanging, they move a lot, enabeling some sort of game or interaction with it. 
+
+Related to the sound used for the intervention, I used some Ableton library bells in different tones, I founded in bells good responce related to the interaction with the structure.
+
+![](../images/TDD4.JPG)
+![](../images/TDD5.JPG)
+![](../images/TDD6.JPG)
+
+![](../images/CNC2.png)
+
+![](../images/CNC10.png)
+
+**Kinect + Arduino + Grasshopper**
+
+The concept that closes the circle, is capture the dancers movement, to enable something to react. In this case, the kinect is recognizing the body movement of the dancer, and is also connected to grasshopper. In this case, Grasshopper is detecting the distance beetween the hands and the feet, and all is connected to arduino that is receiving that data to move some motors. For the intervention this will be a simple demonstration with servo motors moving a pen, just to show the concept that will be developed further in the 3 term.
+
+**Setting up the instalation.**
+
+For the intervention, It was necessary to set everything up the day before Design dialogues, to have things working on. It took me almost all day to cut the cnc structure, assemble it, and wire everything, to have it all working. Then I tested it with people in the FabLab. One learning that I had in this stage. is that I should tested before with the dancer, or even backwards in time, designed the installation with the dancer, because it was a lot of assuming things, more than designing from dance observation. I have to improve that for the next intervention for sure.
+
+Also the complexity of setting electronics in a installation that will be used by humans, is not random, and its necessary to install everything thight and damage proof, to ensure performance and safety for the artist.
+
+
+**Performance.**
+
+It was a  5 minutes  performance, Marta, she is a professional contemporary dancer, was very interested to collaborate and perform in this project, She works also with people with mental illness that use dance to improve their movements, So maybe we will collaborate in that to so seek new opportunities using technology and music.
+
+She came like one hour earlier, and we talked about the performance. I tell her that she will explore the installation, and to seek for the music that it’s inside it using her whole body. For my surprise, her dance was with much more movement that I imagined, so the structure on the top, was moving very hard while she was dancing. Also it was very interesting to see that the wires on the floor were  a bit fragile, so they ended very tangled and not all working. Another surprise was that at the moment of the performance, the conductivity didn’t worked as well as the first tryouts, because not all the spheres and the wires were working, but by the other side, that give the performance more tension, having her moving seeking for sound. Suddenly the spheres started to sound, so it worked very well for the first time.
+
+Conclusions
+
+Testing
+
+I realized that I had never design a performance before to someone else, it always has been for me or with my classmates, this was completely different because it was an intervention for a dancer that I met at the moment of the performance, and with an installation that I havent tried before. That is a big learning for the future, to not take the performance as the “easy” part of the project, but to give it more importance in the whole process. At the moment of the performance I was pretty nervous because everything was moving much more than I expected, so for a tiny moment, I was afraid that something was going to break. Luckily, nothing bad happen, and the intervention was a success.
+
+Designing with
+
+For the next intervention, I will involve much more the Artists that will participate, not hold their participation till the end. From the last intervention I learned that is absolutely necessary to understand what the artist do, their background, past art pieces, to actually co-design the intervention or the performance.
+
+Mixing concepts
+
+I realized that the concept of the physical world mixed with music is a bit complex to explain, and also in the intervention, didn’t make much sense to some people, I think that in this kind of projects, is completely necessary that the project should be self explanatory. and then comment about the project instead of explaining it.
+
+
+
 
