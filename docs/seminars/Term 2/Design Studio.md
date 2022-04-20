@@ -492,6 +492,9 @@ From the first intervention, the main change that I wanted to do, is to go bigge
 
 For that I make some cooper pads and playtronica to spread it in the floor, to create a surface that can be used with the feets. It was very interesting to discover how the context acts as an actor to drive the meaning of the instrument, At first I tried to use the pads in the MDEF class, using them mainly to try the functionality, But when i took the pads home to mix it with guitar, It suddenly transformed into a drumset or a keyboard for the feet. expanding guitarist capabilities, with only one electronic board, some wires, and some software.
 
+![](../images/D.PNG)
+
+
 ![](../images/TDD1.JPG)
 ![](../images/TDD2.JPG)
 ![](../images/TDD3.JPG)
@@ -512,13 +515,18 @@ Related to the sound used for the intervention, I used some Ableton library bell
 ![](../images/TDD5.JPG)
 ![](../images/TDD6.JPG)
 
-![](../images/CNC2.png)
+![](../images/CNC2.PNG)
 
-![](../images/CNC10.png)
+![](../images/CNC10.PNG)
 
 **Kinect + Arduino + Grasshopper**
 
 The concept that closes the circle, is capture the dancers movement, to enable something to react. In this case, the kinect is recognizing the body movement of the dancer, and is also connected to grasshopper. In this case, Grasshopper is detecting the distance beetween the hands and the feet, and all is connected to arduino that is receiving that data to move some motors. For the intervention this will be a simple demonstration with servo motors moving a pen, just to show the concept that will be developed further in the 3 term.
+
+![](../images/K1.PNG)
+![](../images/K2.PNG)
+![](../images/K3.PNG)
+![](../images/K4.PNG)
 
 **Setting up the instalation.**
 
@@ -532,6 +540,11 @@ Also the complexity of setting electronics in a installation that will be used b
 It was a  5 minutes  performance, Marta, she is a professional contemporary dancer, was very interested to collaborate and perform in this project, She works also with people with mental illness that use dance to improve their movements, So maybe we will collaborate in that to so seek new opportunities using technology and music.
 
 She came like one hour earlier, and we talked about the performance. I tell her that she will explore the installation, and to seek for the music that it’s inside it using her whole body. For my surprise, her dance was with much more movement that I imagined, so the structure on the top, was moving very hard while she was dancing. Also it was very interesting to see that the wires on the floor were  a bit fragile, so they ended very tangled and not all working. Another surprise was that at the moment of the performance, the conductivity didn’t worked as well as the first tryouts, because not all the spheres and the wires were working, but by the other side, that give the performance more tension, having her moving seeking for sound. Suddenly the spheres started to sound, so it worked very well for the first time.
+
+![](../images/DDP1.PNG)
+![](../images/DDP2.PNG)
+![](../images/DDP3.PNG)
+![](../images/DDP4.PNG)
 
 Conclusions
 
