@@ -41,7 +41,11 @@ In the talk she shows how AI, algorythms, and machine learning can better a very
 
 A very interesting question from Laura is, what it means to be human? Because the limits of being human and live attached to a machine make that answer even more difficult, because you are living your life with a machine all your time.
 
-Another subjects that she taks about, are theories of post humanism, transhumanism, and that we must define ourself as humans.s
+Another subjects that she taks about, are theories of post humanism, transhumanism, and that we must define ourself as humans.
+
+3. Ron Wakkary
+
+The one from Ron Wakkary is one of the most inspiring from me, because the concept “design with”  is something that I had already known, but when I read to it it makes much more sense. As he told us his exploration building ecosystems in his house, I was at the time relating that to any design project, where the designer is involved at first from the outside, as an observatory, not that aware of whats going on inside the ecosystem, and what is the designer task in that project. I have learned (or remembered) That is necessary to establish the ecosystem first, instead of our ideas or the project itself. It is the same as important to know how the system will work instead of thinking about separate organisms.
 
 
 
