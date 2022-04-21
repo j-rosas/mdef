@@ -537,6 +537,8 @@ Also the complexity of setting electronics in a installation that will be used b
 
 **Performance.**
 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/701575775?h=807153c118&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Video Editado.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 It was a  5 minutes  performance, Marta, she is a professional contemporary dancer, was very interested to collaborate and perform in this project, She works also with people with mental illness that use dance to improve their movements, So maybe we will collaborate in that to so seek new opportunities using technology and music.
 
 She came like one hour earlier, and we talked about the performance. I tell her that she will explore the installation, and to seek for the music that it’s inside it using her whole body. For my surprise, her dance was with much more movement that I imagined, so the structure on the top, was moving very hard while she was dancing. Also it was very interesting to see that the wires on the floor were  a bit fragile, so they ended very tangled and not all working. Another surprise was that at the moment of the performance, the conductivity didn’t worked as well as the first tryouts, because not all the spheres and the wires were working, but by the other side, that give the performance more tension, having her moving seeking for sound. Suddenly the spheres started to sound, so it worked very well for the first time.
@@ -546,17 +548,17 @@ She came like one hour earlier, and we talked about the performance. I tell her 
 ![](../images/DDP3.PNG)
 ![](../images/DDP4.PNG)
 
-Conclusions
+**Conclusions**
 
-Testing
+**Testing**
 
 I realized that I had never design a performance before to someone else, it always has been for me or with my classmates, this was completely different because it was an intervention for a dancer that I met at the moment of the performance, and with an installation that I havent tried before. That is a big learning for the future, to not take the performance as the “easy” part of the project, but to give it more importance in the whole process. At the moment of the performance I was pretty nervous because everything was moving much more than I expected, so for a tiny moment, I was afraid that something was going to break. Luckily, nothing bad happen, and the intervention was a success.
 
-Designing with
+**Designing with**
 
 For the next intervention, I will involve much more the Artists that will participate, not hold their participation till the end. From the last intervention I learned that is absolutely necessary to understand what the artist do, their background, past art pieces, to actually co-design the intervention or the performance.
 
-Mixing concepts
+**Mixing concepts**
 
 I realized that the concept of the physical world mixed with music is a bit complex to explain, and also in the intervention, didn’t make much sense to some people, I think that in this kind of projects, is completely necessary that the project should be self explanatory. and then comment about the project instead of explaining it.
 
