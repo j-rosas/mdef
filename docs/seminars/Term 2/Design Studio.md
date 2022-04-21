@@ -543,10 +543,10 @@ It was a  5 minutes  performance, Marta, she is a professional contemporary danc
 
 She came like one hour earlier, and we talked about the performance. I tell her that she will explore the installation, and to seek for the music that it’s inside it using her whole body. For my surprise, her dance was with much more movement that I imagined, so the structure on the top, was moving very hard while she was dancing. Also it was very interesting to see that the wires on the floor were  a bit fragile, so they ended very tangled and not all working. Another surprise was that at the moment of the performance, the conductivity didn’t worked as well as the first tryouts, because not all the spheres and the wires were working, but by the other side, that give the performance more tension, having her moving seeking for sound. Suddenly the spheres started to sound, so it worked very well for the first time.
 
-![](../images/DDP1.PNG)
-![](../images/DDP2.PNG)
-![](../images/DDP3.PNG)
-![](../images/DDP4.PNG)
+![](../images/DDP1.png)
+![](../images/DDP2.png)
+![](../images/DDP3.png)
+![](../images/DDP4.png)
 
 **Conclusions**
 
