@@ -3,5 +3,4 @@ hide:
     - toc
 ---
 
-Exercise.
 
