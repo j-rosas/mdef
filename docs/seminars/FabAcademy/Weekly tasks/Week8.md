@@ -19,26 +19,26 @@ The first step was to connect a potenciometer to arduino, It is actually simple,
 
 To see how the potenciometer works, the arduino was connected to grasshopper, with the firefly plugin, to controll arduino
 
-![](../images/W82.PNG)
+![](../images/W82.png)
 
 The file of arduino is from the library of arduino examples
 
-![](../images/W81.PNG)
+![](../images/W81.png)
 
 Then, to connect arduino to puredata, is necesary to design the puredata modules, open the port and set values to start transforming values into sound.
 
-![](../images/W83.PNG)
+![](../images/W83.png)
 
 
 After that, It was necessary to replicate the ports and splitting them by spaces, the Analog reads are the six ports that arduino have avalaible. The values that the sensor shows, are from 0 to 1500 aprox.
 
 
-![](../images/W84.PNG)
+![](../images/W84.png)
 
  Then the job is to connect the other 6 potenciometers to the breadboard and set all the values in pure data.
 
 
-![](../images/W88.PNG)
+![](../images/W88.png)
 
 
 Observations.
