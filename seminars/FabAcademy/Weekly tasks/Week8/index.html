@@ -465,18 +465,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../Copia%20de%20Week4/" title="Copia de Week4" class="md-nav__link">
-      Copia de Week4
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
     <a href="../Week1/" title="Week1" class="md-nav__link">
       Week1
     </a>
@@ -491,6 +479,78 @@
   <li class="md-nav__item">
     <a href="../Week10-13/" title="Week10 13" class="md-nav__link">
       Week10 13
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week14/" title="Week14" class="md-nav__link">
+      Week14
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week15/" title="Week15" class="md-nav__link">
+      Week15
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week16/" title="Week16" class="md-nav__link">
+      Week16
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week17/" title="Week17" class="md-nav__link">
+      Week17
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week18/" title="Week18" class="md-nav__link">
+      Week18
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Week19/" title="Week19" class="md-nav__link">
+      Week19
     </a>
   </li>
 
@@ -602,6 +662,13 @@
         <li class="md-nav__item">
   <a href="#week-8" class="md-nav__link">
     Week 8
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#programing-a-6-knob-controller" class="md-nav__link">
+    Programing a 6 knob controller.
   </a>
   
 </li>
@@ -998,6 +1065,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#programing-a-6-knob-controller" class="md-nav__link">
+    Programing a 6 knob controller.
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1024,6 +1098,22 @@
 <p>Embedded Programming</p>
 <p>Use your programmer (HUZZAH32, ESP32 Feather) to program a circuit with a “led and a bottom” to do something
 The circuit board, could be done as a shield, breadboard or vinyl cutter</p>
+<h4 id="programing-a-6-knob-controller">Programing a 6 knob controller.<a class="headerlink" href="#programing-a-6-knob-controller" title="Permanent link">&para;</a></h4>
+<p>For this Challenge, I manage to design a 6 knob controller, to use it with Pure Data, an open software to create music and sound with defined parameters.</p>
+<p>The first step was to connect a potenciometer to arduino, It is actually simple, because its only necesary to plug the potenciometer to the 3v, a specific pin, and the ground.</p>
+<p>To see how the potenciometer works, the arduino was connected to grasshopper, with the firefly plugin, to controll arduino</p>
+<p><img alt="" src="../images/W82.PNG" /></p>
+<p>The file of arduino is from the library of arduino examples</p>
+<p><img alt="" src="../images/W81.PNG" /></p>
+<p>Then, to connect arduino to puredata, is necesary to design the puredata modules, open the port and set values to start transforming values into sound.</p>
+<p><img alt="" src="../images/W83.PNG" /></p>
+<p>After that, It was necessary to replicate the ports and splitting them by spaces, the Analog reads are the six ports that arduino have avalaible. The values that the sensor shows, are from 0 to 1500 aprox.</p>
+<p><img alt="" src="../images/W84.PNG" /></p>
+<p>Then the job is to connect the other 6 potenciometers to the breadboard and set all the values in pure data.</p>
+<p><img alt="" src="../images/W88.PNG" /></p>
+<p>Observations.</p>
+<p>When the potentiometers are connected to the breadboard, they have some latching in the process, os for the next iteration its necesary to sold the pins and make a shiel board to have that more controlled. </p>
+<p>Another interesting thing is that the potenciometers can be used as controllers for almost everything, so we will use them for next interventions and projects.</p>
                 
                   
                     
@@ -1032,7 +1122,7 @@ The circuit board, could be done as a shield, breadboard or vinyl cutter</p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 2, 2022</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 18, 2022</span>
     
   </small>
 </div>
