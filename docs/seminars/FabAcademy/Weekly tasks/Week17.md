@@ -29,19 +29,19 @@ Stage 3: For the final act, there will be a hike organized to Collserola park, w
 
 #### Concept
 
-![](../images/WT16_04.png)
+![](../images/WT17_01.png)
 
 #### Project cycle
 
-![](../images/WT16_04.png)
+![](../images/WT17_02.png)
 
 #### Concept
 
-![](../images/WT16_04.png)
+![](../images/WT17_03.png)
 
 #### Project cycle
 
-![](../images/WT16_04.png)
+![](../images/WT17_04.png)
 
 #### Who’s done what beforehand?
 
