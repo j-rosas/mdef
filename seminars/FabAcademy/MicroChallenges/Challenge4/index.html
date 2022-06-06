@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#micro-challenge-3" class="md-skip">
+        <a href="#micro-challenge-4" class="md-skip">
           Skip to content
         </a>
       
@@ -416,8 +416,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#micro-challenge-3" class="md-nav__link">
-    Micro Challenge 3
+  <a href="#micro-challenge-4" class="md-nav__link">
+    Micro Challenge 4
   </a>
   
 </li>
@@ -1026,8 +1026,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#micro-challenge-3" class="md-nav__link">
-    Micro Challenge 3
+  <a href="#micro-challenge-4" class="md-nav__link">
+    Micro Challenge 4
   </a>
   
 </li>
@@ -1054,7 +1054,110 @@
                 
                   <h1>Challenge4</h1>
                 
-                <h4 id="micro-challenge-3">Micro Challenge 3<a class="headerlink" href="#micro-challenge-3" title="Permanent link">&para;</a></h4>
+                <h4 id="micro-challenge-4">Micro Challenge 4<a class="headerlink" href="#micro-challenge-4" title="Permanent link">&para;</a></h4>
+<p>Building a bio-based MIDI controller for an interactive audiovisual performance</p>
+<iframe src="https://player.vimeo.com/video/717057704?h=02182214a8" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/717057704">Fab Challenge 4 Summary</a> from <a href="https://vimeo.com/christianernst">Christian Ernst</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>Tati, Joaco and Chris are building a bio-based A/V interface.</p>
+<p>Basic structure:</p>
+<p>Inputs (buttons)
+PCB
+Outputs (Audio &amp; Visuals)
+In this documentation we will focus on the fabrication of the controller and the electronics as this was the main focus this week, but we will also touch upon wireless communication protocols.</p>
+<p>How can we rethink a musical instrument? What are inputs, and how can they change shape and colors? How can we create engaging, collborative interactions with a button board?</p>
+<p>We wanted to make a modular button input system. After initially thinking about producing some sort of playable MIDI keyboard, we thought it could be interesting to incorporate two of Akasha hub&rsquo;s values into the design: decentralisation &amp; sustainable relationships. So we designed the possibility for distributed buttons (which could be placed together with magnets or farther away) and rethought the buttons&rsquo; materiality by using biomaterials.</p>
+<p>We were inspired by the structure a visual aspect of beehives, which is why we ended up going for the hexagonic shape.</p>
+<p>For the challenge we wanted to test out a diversity of inputs: we selected a &ldquo;normal&rdquo; clicking button, a potentiometer and a pressure sensor. This way, we could get a good understanding of each one and simply scale up the process based on our needs in the future.</p>
+<p>Purpose: What is it supposed to do?
+These buttons would then trigger visuals through Touchdesigner and audio through Ableton, at the same time, through TDAbleton protocols using wireless communication through IP addresses.</p>
+<p>ACADEMIC LEVEL</p>
+<p>Long term dissemination plan</p>
+<p>explain the strategy you will use to share with future users your project (licences, tools, communication, etc)</p>
+<p>Easy to scale up: we already have the 3D files for a button, potentiometer and pressure sensor, so it is only a matter of repeating the 3D printing.</p>
+<p>As for the audiovisual files, Touchdesigner is free for personal use and has a very active community, so we could post the file on TD forums for people to use and learn. Ableton, on the other hand is very not open source and expensive, so it wouldn&rsquo;t be easy to share that with people who do not have a license for it.</p>
+<p>Our research areas are very similar, even though we hav different focal points. The common areas are music, sustainability, environmental awareness, multimedia installations, interaction design, ecologies and audiovisuals. Our individual niches and specialties are</p>
+<p>Juaco: sound, digital fabrication, matter &amp; sound, sonar art, biofabrication and cognition
+Tatiana: interactive installations, creative coding, symbiotic relationships, fractals, biomaterials and the one and only Touchdesigner &lt;3
+Chris: ML training, Autonomous tech, democratising tech, bridging gaps between disciplines, generative music.
+We&rsquo;ve liked working together because we manage to each find a way to reach a common objective (Audiovisual VJ set with biomaterials) without compromising our specific interests (bio fabrication, creative coding, generative music etc.).</p>
+<p>Show how your team planned and executed the project
+We divided the group based on skills and interests: Juaco worked on the 3D printing, moulding &amp; casting and soldering, Chris worked on the electronics, pcb milling and Ableton sountrack and Tatiana figured out how to structure the pipeline in Touchdesigner to receive, remap and send data through various protocols. We often teamed up and helped each other out on various tasks but generally, we can say that our biggest tasks were digital fabrication, biomaterial moulding, PCB milling, electronics, wireless communications, audio &amp; visuals generation.</p>
+<p>System diagram (illustration explaining function, parts, and relations)</p>
+<p>All the buttons are connected to Arduino that is communicating the data to Touchdesigner. Each button triggers a visual + sound and each potentiomenter changes the color, shape and pitch.</p>
+<p>BOM (Build of Materials)
+Material used:</p>
+<p>3 buttons
+3 potentiometers
+1 touch sensor
+biomaterials
+3D materials for printing models for moulding and casting
+3D materials for printing the box
+cables
+screws
+Arduino board
+Button board</p>
+<p>This button board requires 3D modelling, molding and casting, electronics.</p>
+<p>Integrated Design (How you designed it - relation between elements)
+The input (button, rotor, pressure sensor) has a 3D printed case which keeps it stable and allows us to place it where we want. It is connected to the arduino (Code found in project files) which communicates the data into touchdesigner. This data is either binary, 0/1 for the button, or a range, like 0-1023 for the rotary knob. This data is remapped in Touchdesigner according to our needs: for example, 0-1023 is remapped to 1-360 in order for the rotary knob to change the hue of the colour selected in the visual. The buttons activate the visuals in Touchdesigner, but also simulatenously send midi values to ableton thanks to the TDAbleton link we set up for the two softwares to communicate.</p>
+<p>Honest Design (use of technology in a meaningful way) Relation to the topics
+We believe the technology was used in a meaningful way because we thought about how to conceptually match our vision with the experience. In other words, since we want participants to think about how technology, art and nature are connected in a collaborative way, we wanted this to be reflected in the button board itself, which is why we chose to make it decentralised with biomaterial and electronic components.</p>
+<p>Be creative (find solutions with materials and technology you have)
+We were creative in our approach and execution of the product, starting from the sketches, to the cardboard prototype and finally the product itself.</p>
+<p>Explore design boundaries (based on your expertise)
+We were unfamiliar with OSC and IP communication protocols, so this was an area we really had to push ourselves in, but it ended up being very beneficial.</p>
+<p>Listed future development opportunity for this project
+We want to scale up this project to 9 buttons, 3 rotary knobs and even plants, so that we can have a big, multi-person, interactive jamming board.</p>
+<p>REPLICABILITY</p>
+<p>How did you fabricate it (fabrication processes and materials)
+All of the files are inside the folder.</p>
+<p>Juaco started out by prototyping the button cases in cardboard, and surely enough he whipped up a great prototype out of nowhere.</p>
+<p>3D Fabrication</p>
+<p>Then, he designed the final structure to be 3D printed in Fusion 360, with slight tweaks for each type of input (based on the shape of the button/knob).</p>
+<p>Molding &amp; Casting</p>
+<p>Recipe for biomaterials can be found here.</p>
+<p>Juaco also designed the mould for the biomaterials, so that it could fit perfectly into the case.</p>
+<p>Milling and Soldering an Arduino Shield</p>
+<p>Chris was responsible for designing, milling and soldering a Arduino Shield to multiply the GND and 5V outputs for the controller.</p>
+<p>Some notes on fabrication</p>
+<p>Trace mill: min. 1/64&rdquo;
+Outline mill: 1/32&rdquo;
+Trace seperation: 2.55mm
+Minimal trace width: 0.35mm
+Trace clearance: 0.4mm
+Hole diameter: 1mm</p>
+<p>Iteration Process (spiral development)
+For the input cases</p>
+<p>Cardboard prototype -&gt; breadboard electronics -&gt; 3D printed casing -&gt; button biomaterial moulding</p>
+<p>For the audiovisual pipeline</p>
+<p>Understanding OSC protocols with TouchOSC app communicating with Touchdesigner (just to get familiar with IP addresses and ports)
+Receiving data from Arduino by using Serial DAT (operator node which receives serial data)
+Communicating interchangeably between Touchdeisgner and Ableton, using TDAbleton over IP address
+In both cases, we scaled up the difficulty over time, once we understood the basics of the software or technique.</p>
+<p>Described problems and how the team solved them
+As always, we had many bugs in the code, within the protocols and we often had to</p>
+<p>Out of all challenges, however, this was the one where we faced the least difficulties because we were so prepared and determined to getting things done, but also because we distributed our skills well and evenly without experimenting too much. It&rsquo;s always important to balance the experimenting enough to be out-of-the-box, yet be rigorous with time and organisation in order to finish within the deadlines.</p>
+<p>Dealing with uncertainty + Don&rsquo;t be afraid to make mistakes</p>
+<p>The IAAC wifi sucks. Especially when there are dozens of students git pushing and uploading last minute files onto the repo. We were actually really disappointed with our final presentation because we were looking forward to showcasing our week of hard work to the class and professors, but the wifi bandwidth was not stable enough to maintain a connection between Tatiana and Chris&rsquo; computer, which meant that Touchdesigner and Ableton were not able to communicate.</p>
+<p>This is something to keep in mind for the final show, but maybe it was a way of us not &ldquo;spoiling&rdquo; the magic of the event.</p>
+<p><img alt="" src="../images/MC4_01.png" />
+<img alt="" src="../images/MC4_02.png" />
+<img alt="" src="../images/MC4_03.PNG" />
+<img alt="" src="../images/MC4_04.PNG" />
+<img alt="" src="../images/MC4_05.jpeg" />
+<img alt="" src="../images/MC4_06.jpeg" />
+<img alt="" src="../images/MC4_07.jpeg" />
+<img alt="" src="../images/MC4_08.jpeg" />
+<img alt="" src="../images/MC4_09.JPG" />
+<img alt="" src="../images/MC4_10.JPG" />
+<img alt="" src="../images/MC4_11.JPG" />
+<img alt="" src="../images/MC4_12.JPG" />
+<img alt="" src="../images/MC4_13.JPG" />
+<img alt="" src="../images/MC4_14.JPG" />
+<img alt="" src="../images/MC4_15.JPG" />
+<img alt="" src="../images/MC4_16.JPG" />
+<img alt="" src="../images/MC4_17.JPG" />
+<img alt="" src="../images/MC4_18.JPG" /></p>
                 
                   
                     
