@@ -15,7 +15,7 @@ The first step was to have the measures of Arduino UNO board pins, to make the A
 
 ![](../images/WT06_01.jpeg)
 
-After that it was necesarry to configure the gcode for the CNC machine to work, in this case were three gcodes, the first for the holes of the pins, then the "channels" of ground, voltage and pins, and finnaly the border of the PCB.
+After that it was necesary to configure the gcode for the CNC machine to work, in this case were three gcodes, the first for the holes of the pins, then the "channels" of ground, voltage and pins, and finnaly the border of the PCB.
 
 ![](../images/WT06_02.jpeg)
 
