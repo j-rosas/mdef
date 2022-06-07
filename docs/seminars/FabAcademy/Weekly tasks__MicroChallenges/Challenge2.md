@@ -16,12 +16,21 @@ We wanted to find a way of summarizing the topics we discussed and learned about
 
 Purpose
 
+![](../images/MC02_02.png)
+
+![](../images/MC02_01.png)
+
 What should the Artifact do:
 - Connect to Kinect, Grasshopper, Firefly to recognise body movement and gestures via skeleton tracker
+
 - Through Grasshopper and Firefly, determine lines and points as nodes on the body that the Kinect has sensed to connect to a servo Motor
+
 - Control a servo Motor and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write component, use arm gestures to control the motors movement
+
 - Servo Motor should successfully move a pen and move according to the gestures sensed through the kinect.
+
 - Control a DC and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write components. This motor should rotate a disk while the servo inscribes the drawing according to the gestures.
+
 - A series of questions should be listed, where the observer answers based on their arm gestures.
 
 What should the Artifact not do:
@@ -29,6 +38,9 @@ What should the Artifact not do:
 - The questions/ prompts, the movement of the DC Motor should not be out of sinc. We calibrated each component to be in a 40 second window where each question should be answered in a 5 second window.
 
 Execution
+
+![](../images/MC02_10.JPG)
+![](../images/MC02_08.png)
 
 CNC
 
@@ -54,8 +66,6 @@ LASER CUTTING
 
 The handle meant to hold the servo and pen was designed in Fusion, then laser cut using an acrylic scrap sheet.
 
-![](../images/MC02_01.png)
-![](../images/MC02_02.png)
 ![](../images/MC02_03.jpeg)
 ![](../images/MC02_04.jpeg)
 ![](../images/MC02_05.jpeg)
@@ -63,7 +73,7 @@ The handle meant to hold the servo and pen was designed in Fusion, then laser cu
 ![](../images/MC02_07.png)
 ![](../images/MC02_08.png)
 ![](../images/MC02_09.JPG)
-![](../images/MC02_10.JPG)
+
 
 
 

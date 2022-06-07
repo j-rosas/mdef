@@ -140,11 +140,28 @@ The IAAC wifi sucks. Especially when there are dozens of students git pushing an
 
 This is something to keep in mind for the final show, but maybe it was a way of us not "spoiling" the magic of the event.
 
+Images
+
 ![](../images/MC4_01.png)
+
+Planning the concept with references and visual languages that we wanted to use.
+
 ![](../images/MC4_02.png)
+
+Common concepts that we shared.
+
 ![](../images/MC4_03.PNG)
+
+Diagram of the controller prototype.
+
 ![](../images/MC4_04.PNG)
+
+Quick diagram of the controller, arduino and connections.
+
 ![](../images/MC4_05.jpeg)
+
+Some process of the contruction and built of the controllers. Including 3d printing, molding and casting biomaterials, prototyping and pcb cutting and soldering.
+
 ![](../images/MC4_06.jpeg)
 ![](../images/MC4_07.jpeg)
 ![](../images/MC4_08.jpeg)

@@ -14,11 +14,19 @@ Concept of the Project
 
 For this challenge, we are exploring how sound affects humans decisions.
 
+
+
 Based on design ethics, we started discussing about the non-neutrality of design, boundaries between technology and design, how design choices influence the functionality of society and the re-creation of reality.
+
+![](../images/MC3_01.png)
+
+
+![](../images/MC3_02.png)
+
 
 Our common areas of interest are music, games, communication, interactive design and low tech with the purpose of seeking new ways of relationship between humans and non-humans. Through this, we are developing an artifact that allows human interaction, guided by different sounds, creating a final output of sound-paintings. The human interaction (input) is about drawing and being guided by the sounds. The final output is the drawing itself.
 
-Goals
+Goals:
 
 Visualize decision making through sound and drawings
 Work with electronics, Arduino, creativity and conductivity
@@ -83,24 +91,39 @@ BOM (Build of Materials)
 
 15 x 24 cm 4mm transparent acrylic panel 20 x 30 cm copper vinyl cut sticker 9 cables connecting board to Arduino/Playtronica Arduino Playtronica Waste scrap MDF wood
 
-Iteration Process (spiral development)
+![](../images/MC3_07.jpeg)
 
 Prototyping the board using a scrap copper.
-
-
-![](../images/MC3_01.png)
-![](../images/MC3_02.png)
-![](../images/MC3_03.png)
 ![](../images/MC3_04.jpeg)
 ![](../images/MC3_05.jpeg)
 ![](../images/MC3_06.jpeg)
-![](../images/MC3_07.jpeg)
+
+Pure Data simple configuration of frecuencies 
+
 ![](../images/MC3_08.jpg)
+
+Concept planning of the intervention.
+
 ![](../images/MC3_09.jpeg)
+
+Design of the conductive surface, the shape are intersecting, to enable the movement, and avoid a normal keyboard.
+
 ![](../images/MC3_10.jpg)
+
+Testing different touchpins and the conductiveness. An interesting thing is that the conductivity goes up when it has more metalic surfaces.
+
 ![](../images/MC3_11.jpeg)
+
+Final configuration for the surface. We usedsemitransparent paper to saw the coper tape.
+
 ![](../images/MC3_12.jpeg)
+
+Example of one paper with painting. As the fingers were traveling around the surface, the cooper was reacting and triggering sounds.
+
 ![](../images/MC3_13.jpg)
+
+Final Result of the material created by our coleagues. Understanding how music creation makes an influence on their choices.
+
 ![](../images/MC3_14.jpeg)
 
 
