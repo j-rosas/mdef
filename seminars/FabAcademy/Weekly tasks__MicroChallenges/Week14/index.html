@@ -487,18 +487,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../Week19/" title="Week19" class="md-nav__link">
-      Week19
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
     <a href="../Week2/" title="Week2" class="md-nav__link">
       Week2
     </a>
@@ -971,6 +959,27 @@
                 <p>Week 14 - Networking and Communications</p>
 <p>Send a message between two microcontrollers (boards/ esp32 feathers or boards you made). The task could be done by pairs.</p>
 <p>Communication can be done by cable or wireless</p>
+<p><strong>Communicating two Arduino esp32 feather via Wifi</strong></p>
+<p>We have found this tutorial to make the connection of the two feathers via wifi, with different type of sensors. since is the first time that we work with networking and com, we will simplify the task to make the connection, send and recive info from one to another with text.</p>
+<p>https://randomnerdtutorials.com/esp32-client-server-wi-fi/</p>
+<p>https://www.youtube.com/watch?time_continue=175&amp;v=2z7Ow4PjJRc&amp;feature=emb_logo</p>
+<p><img alt="" src="../images/WT14_01.JPG" /></p>
+<p>Setting the Boards</p>
+<p>The connection is vía wifi, so here we are using only the breadboard to have certain order, and know wich board is wich. Also i tried to add an analog 
+ input like a potentiometer, but in this first attempt,it didn´t work. </p>
+<p><img alt="" src="../images/WT14_09.JPG" /></p>
+<p>Codes:</p>
+<p>The codes used where a simplification of the one that was on the tutorial, adding the text writing list.</p>
+<p>There is a code for a Server, the one that send the wifi signal and IP, and the client, that connects to the sender. Also is possible to connect to the sender via wifi of the phone, adding the IP requested.</p>
+<p><img alt="" src="../images/WT14_02.PNG" /></p>
+<p><img alt="" src="../images/WT14_03.PNG" /></p>
+<p><img alt="" src="../images/WT14_06.JPG" /></p>
+<p>Sometimes is necessary to reset manually the arduino feather board to upload the code correctly.</p>
+<p><img alt="" src="../images/WT14_07.PNG" /></p>
+<p><img alt="" src="../images/WT14_08.PNG" /></p>
+<p>Also is possible to connect via wifi from the cellphone entering the IP +  hello, enabling the phone to read that info. It can be a easy and local way to send messages.</p>
+<p>After uploading the Client code, the Arduino connects automatically to the server, and it reads the signal with the message.</p>
+<p><img alt="" src="../images/WT14_05.PNG" /></p>
                 
                   
                     
@@ -979,7 +988,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 8, 2022</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 10, 2022</span>
     
   </small>
 </div>
