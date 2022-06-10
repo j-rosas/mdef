@@ -5,8 +5,7 @@ hide:
 
 ##### Week 16
 
-Wildcard week
-
+**Wildcard week**
 
 For this week, I used the cooper tape panel that we used for challenge 2. this time the board will be used by the Robot ABB 140, to create music by programming the movement of the robot through the board.
 

@@ -5,9 +5,7 @@ hide:
 
 ##### Week 2
 
-Week 2
-
-3d model:
+**3d model:**
 
 This a 3d model of a first iteration of the "OpenJam machine." A multi-track synth, loop station, that can have attached multi inputs to create music with people.
 

@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-Invention, Intelectual property and income
+**Invention, Intelectual property and income**
 
 Create a dissemination plan for your final project
 

@@ -5,7 +5,7 @@ hide:
 
 #### Micro Challenge 3
 
-"Sensorial Decisions" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
+**Sensorial Decisions" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.**
 
 <iframe src="https://player.vimeo.com/video/706955265?h=68fb8f0685" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/706955265">Sensorial Desitions</a> from <a href="https://vimeo.com/user168471943">Joaquin Rosas Sotomayor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

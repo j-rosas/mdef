@@ -5,10 +5,10 @@ hide:
 
 ##### Week 3
 
-Laser cutting 
+**Laser cutting **
 
 
-Week 3 - Computer-controlled cutting¶
+Computer-controlled cutting¶
 
 Create a small object using parametric design tools. The object should be assembled in a press-fit way (no use of glue, screws etc).
 

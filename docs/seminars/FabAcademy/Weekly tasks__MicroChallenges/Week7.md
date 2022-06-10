@@ -5,7 +5,7 @@ hide:
 
 ##### Week 7
 
-Computer Controlled Machining -CNC
+**Computer Controlled Machining**
 
 Design something big IN PAIRS! . You can use up to a maximun of half full board ( that means 1200x1200mm) of the available material per student. 15 mm thick pine plywood boards.
 You will cut your design with your teammate, so you will cut the whole panel at once.

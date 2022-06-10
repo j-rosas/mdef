@@ -5,7 +5,7 @@ hide:
 
 ##### Week 1
 
-Documenting
+**Documenting**
 
 Doc 1:
 

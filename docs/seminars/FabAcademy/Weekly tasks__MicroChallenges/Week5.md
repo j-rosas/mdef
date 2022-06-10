@@ -5,10 +5,7 @@ hide:
 
 ##### Week 5
 
-3d Printing
-
-
-3d Printing
+**3d Printing**
 
 For this Asignment, we gather togueter with Angel Jo, to try to print in Clay with the hacked 3D ender 3 printer.
 

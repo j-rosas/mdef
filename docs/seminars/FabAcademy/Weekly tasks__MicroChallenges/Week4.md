@@ -5,9 +5,7 @@ hide:
 
 ##### Week 4
 
-Electronic soldering
-
-
+**Electronic soldering**
 
 For this task, we cut a shield for Arduino 1, that enable us to jump from the breadboard, to the shield. 
 We needed to have all of the pins available to connect preassure sensors, buttons and potentiometers, so we also did two channels for 5v and ground.

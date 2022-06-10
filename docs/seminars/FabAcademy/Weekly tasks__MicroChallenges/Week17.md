@@ -5,7 +5,7 @@ hide:
 
 ##### Week 17
 
-Application and implications
+**Application and implications**
 
 Questions for the MDEF Thesis project
 

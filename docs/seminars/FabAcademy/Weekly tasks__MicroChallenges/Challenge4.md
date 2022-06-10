@@ -5,7 +5,7 @@ hide:
 
 #### Micro Challenge 4
 
-Building a bio-based MIDI controller for an interactive audiovisual performance
+**Building a bio-based MIDI controller for an interactive audiovisual performance**
 
 
 <iframe src="https://player.vimeo.com/video/717057704?h=02182214a8" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
