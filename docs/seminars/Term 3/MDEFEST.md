@@ -18,5 +18,11 @@ Stage 2: The Clay will be installed in different metallic and conductive totems,
 
 Stage 3: For the final act, there will be a hike organized to Collserola park, where every participant will take a piece of the clay that was made by different people the day before. The pieces of clay will be seted up for a music performance that will be played there. After the performance, all of the clay pieces will be returned to the park as little sculptures, as nendo dango seeds, or as traces of human intervention. So with that approach the object will have its own natural cycle, where it was taken, used and returned where it belongs. 
 
+Collaboration:
 
-Collaboration
+For Activities 2 and 3, there will be collaboration with other classmates collectives. The first one is with Tati and Chris in Akasha Hub, where there will be designed the interactive controller for the event, and the clay stations, making the participants an active way to play with clay.
+
+With Slowlab collective, we will do the Hike, that will consist on a hike to Collserola, where people will take the pieces of clay and more sensorial activities, so in the top there will be a meditation where people will be hearing the generated sound in the past exhibition, then leaving the objects in the park as part of the offering of the project.
+
+Documentation 
+The project works as a cycle, so the final pieces will be returning to ground, and they will fade through time. For showing and sharing the project, it is necessary to create an audiovisual piece that will communicate the project in the digital space, and also to apply to faires and bienales.
