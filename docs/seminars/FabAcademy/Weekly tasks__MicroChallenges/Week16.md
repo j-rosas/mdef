@@ -7,6 +7,8 @@ hide:
 
 **Wildcard week**
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720830522?h=534ed93d9a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Human/Machine Collaboration"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 For this week, I used the cooper tape panel that we used for challenge 2. this time the board will be used by the Robot ABB 140, to create music by programming the movement of the robot through the board.
 
 
