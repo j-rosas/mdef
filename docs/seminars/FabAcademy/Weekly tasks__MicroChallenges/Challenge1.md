@@ -5,6 +5,9 @@ hide:
 
 #### Micro Challenge 1
 
+Link to repo:
+https://github.com/chris-ernst/fablab-challenge-1
+
 **Prototiping a 4 track collaborative loop station.**
 
 We manage to design and build a 4track looper that can be used by more than one person, wich loopers are designed to.

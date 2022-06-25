@@ -5,6 +5,8 @@ hide:
 
 #### Micro Challenge 2
 
+Link to repo: https://github.com/chris-ernst/fabacademy-challenge-2
+
 **Kinnect and grasshopper**
 
 In combining and navigating our interests, we saw intersections in our interests, mainly themes of immersive and interactiveness, explorative education, engaging experiences and provocative products.

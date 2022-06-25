@@ -5,6 +5,10 @@ hide:
 
 #### Micro Challenge 4
 
+Link to repo: 
+
+https://github.com/chris-ernst/hybrid-ecosystems
+
 **Building a bio-based MIDI controller for an interactive audiovisual performance**
 
 
